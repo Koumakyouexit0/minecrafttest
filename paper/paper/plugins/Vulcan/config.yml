@@ -417,7 +417,7 @@ commands:
 
 punishment-statistics-broadcast:
   # Whether or not Vulcan should broadcast how many players it has punished.
-  enabled: false
+  enabled: true
   # The interval at which the message should be broadcasted in (in ticks) (default = 18000 = 15min)
   interval: 18000
   # The message that should be broadcasted
