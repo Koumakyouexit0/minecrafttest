@@ -99,3 +99,4 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:05:39] [Server thread/INFO]: reopymiku issued server command: /vulcan:punishlogs reopymiku
 [14:06:45] [Server thread/INFO]: reopymiku issued server command: /fabric-command-api-v2:client
 [14:06:50] [Server thread/INFO]: reopymiku issued server command: /bukkit:?
+[14:07:13] [Server thread/INFO]: reopymiku issued server command: /bukkit:? vulcan
