@@ -435,7 +435,7 @@ settings:
   # Whether or not cinematic mode will be checked for certain aim checks. This isn't really a big deal and can be
   # left disabled as this will pretty much NEVER happen unless done intentionally. Enabling this will slow
   # detection speeds for certain checks.
-  cinematic: false
+  cinematic: true
   # This is just here in case I forget to remove a debug message when I post an update. If I forget to remove a debug
   # message and you see [Vulcan Debug] on your server, disable this (it won't effect you if this is enabled or disabled
   # unless I forget to remove a debug message, but if you see [Vulcan Debug] in chat, then set this to false and reload).
