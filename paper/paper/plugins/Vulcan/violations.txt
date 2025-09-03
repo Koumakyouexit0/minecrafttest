@@ -346,3 +346,11 @@
 [09-03-2025] [14:40:45] reopymiku failed Scaffold (Type E) [VL: 6] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaYaw=1083.2418 deltaPitch=9.822548
 [09-03-2025] [14:40:45] reopymiku failed Scaffold (Type G) [VL: 5] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] angle=0.077520356 delay=241 acceleration=1.2568761402467765E-4
 [09-03-2025] [14:40:45] reopymiku failed Scaffold (Type I) [VL: 10] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] acceleration=1.2568761402467765E-4 deltaYaw=1084.9739 deltaPitch=12.302406
+[09-03-2025] [14:41:12] reopymiku failed Scaffold (Type K) [VL: 1] [Ping: 86] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] amount=6
+[09-03-2025] [14:41:14] reopymiku failed Scaffold (Type K) [VL: 2] [Ping: 84] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] amount=6
+[09-03-2025] [14:41:15] reopymiku failed Scaffold (Type K) [VL: 3] [Ping: 81] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] amount=6
+[09-03-2025] [14:41:16] reopymiku failed Scaffold (Type K) [VL: 4] [Ping: 71] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] amount=6
+[09-03-2025] [14:41:18] reopymiku failed Scaffold (Type K) [VL: 5] [Ping: 70] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] amount=6
+[09-03-2025] [14:41:19] reopymiku failed Scaffold (Type K) [VL: 6] [Ping: 74] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] amount=6
+[09-03-2025] [14:41:20] reopymiku failed Scaffold (Type K) [VL: 7] [Ping: 78] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] amount=6
+[09-03-2025] [14:41:22] reopymiku failed Scaffold (Type K) [VL: 8] [Ping: 76] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] amount=6
