@@ -163,3 +163,67 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ reopymiku was punished for Improbable (Type B) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 12:27:48
+
+Location:
+ - World: world
+ - X: 6.29043790220237
+ - Y: -48.0
+ - Z: 39.73020687343471
+
+Information:
+ - UUID: 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+ - Keep Alive Ping: 55
+ - Transaction Ping: 74
+ - Server TPS: 20
+ - Sensitivity: 161
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.21.4
+ - Last Damage: 5.5 seconds ago
+
+Total Violations: 37
+ - Combat Violations: 0
+ - Movement Violations: 36
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 109
+ - Since Riptide Ticks: 277
+ - Flying Delay: 506
+ - Since Velocity Ticks: 110
+ - Since Firework Ticks: 277
+ - Ticks Existed: 110
+ - Since Vehicle Ticks: 177
+ - Since Liquid Ticks: 177
+ - Queued Transactions: 0
+ - Joined: 30 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Flight (Type A) [VL: 5] (Invalid Y-Axis movement.)
+ - Flight (Type B) [VL: 6] (Invalid Y-Axis movement.)
+ - Flight (Type E) [VL: 1] (Invalid Y-Axis movement.)
+ - Flight (Type F) [VL: 10] (Invalid Y-Axis movement.)
+ - Jump (Type B) [VL: 4] (Invalid jump motion.)
+ - Motion (Type A) [VL: 2] (Repeated vertical motions.)
+ - Speed (Type A) [VL: 1] (Invalid friction.)
+ - Speed (Type B) [VL: 1] (Moving too quickly on the ground.)
+ - Speed (Type C) [VL: 6] (Moving too quickly in the air.)
+ - Speed (Type D) [VL: 6] (Moving too quickly on the ground.)
+ - Speed (Type E) [VL: 2] (Invalid friction.)
+ - Strafe (Type A) [VL: 4] (Moving incorrectly in the air.)
+ - Improbable (Type B) [VL: 1] (Too many combined movement violations.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
