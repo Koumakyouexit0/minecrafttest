@@ -339,3 +339,4 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:18:00] [User Authenticator #3/INFO]: UUID of player reopymiku is 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
 [14:18:00] [Server thread/INFO]: reopymiku joined the game
 [14:18:00] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:58400] logged in with entity id 77 at ([world]-75.4778495975742, -29.302980848345396, 13.064171949155066)
+[14:18:15] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Air Place (Type A) (1/10)
