@@ -284,3 +284,10 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:15:59] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Scaffold (Type K) (2/15)
 [14:15:59] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Bad Packets (Type M) (4/5)
 [14:16:00] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Scaffold (Type D) (5/10)
+[14:16:00] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Bad Packets (Type M) (5/5)
+[14:16:00] [Server thread/INFO]: reopymiku lost connection: §c[Vulcan] Unfair Advantage
+[14:16:00] [Server thread/INFO]: reopymiku left the game
+[14:16:00] [Server thread/INFO]: Kicked reopymiku: §c[Vulcan] Unfair Advantage
+[14:16:07] [User Authenticator #2/INFO]: UUID of player reopymiku is 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+[14:16:07] [Server thread/INFO]: reopymiku joined the game
+[14:16:07] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:51348] logged in with entity id 68 at ([world]-95.57095091860124, -50.0, 28.486261426117856)
