@@ -252,3 +252,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:14:59] [User Authenticator #2/INFO]: UUID of player reopymiku is 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
 [14:14:59] [Server thread/INFO]: reopymiku joined the game
 [14:14:59] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:48090] logged in with entity id 66 at ([world]-45.402733431976465, -50.0, 28.471455223496342)
+[14:15:18] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Bad Packets (Type M) (1/5)
+[14:15:18] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Scaffold (Type D) (1/10)

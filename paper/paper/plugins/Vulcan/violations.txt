@@ -128,3 +128,5 @@
 [09-03-2025] [14:14:56] reopymiku failed Bad Packets (Type M) [VL: 4] [Ping: 69] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] delay=67
 [09-03-2025] [14:14:57] reopymiku failed Scaffold (Type D) [VL: 4] [Ping: 67] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=734 dp=4.862068
 [09-03-2025] [14:14:58] reopymiku failed Bad Packets (Type M) [VL: 5] [Ping: 67] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] delay=50
+[09-03-2025] [14:15:18] reopymiku failed Bad Packets (Type M) [VL: 1] [Ping: 66] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] delay=58
+[09-03-2025] [14:15:18] reopymiku failed Scaffold (Type D) [VL: 1] [Ping: 66] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=485 dp=1.2965775
