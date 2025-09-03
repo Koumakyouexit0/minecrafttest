@@ -211,3 +211,13 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:09:53] [Server thread/INFO]: ---»--*-------------------------------------*--«---
 [14:10:15] [Server thread/INFO]: Vulcan » This player set off no logs!
 [14:10:20] [Server thread/INFO]: Vulcan » This player set off no logs!
+[14:10:44] [pool-20-thread-1/INFO]: ---»--*--[ Punishment Logs for reopymiku ]--*--«---
+[14:10:44] [pool-20-thread-1/INFO]:  - 1.) reopymiku was punished for Criticals (Type A) 
+[14:10:44] [pool-20-thread-1/INFO]:  - 2.) reopymiku was punished for Speed (Type C) 
+[14:10:44] [pool-20-thread-1/INFO]:  - 3.) reopymiku was punished for Motion (Type E) 
+[14:10:44] [pool-20-thread-1/INFO]:  - 4.) reopymiku was punished for Motion (Type E) 
+[14:10:44] [pool-20-thread-1/INFO]:  - 5.) reopymiku was punished for Improbable (Type B) 
+[14:10:44] [pool-20-thread-1/INFO]:  - 6.) reopymiku was punished for Bad Packets (Type A) 
+[14:10:44] [pool-20-thread-1/INFO]:  - 7.) reopymiku was punished for Improbable (Type B) 
+[14:10:44] [pool-20-thread-1/INFO]:  - 8.) reopymiku was punished for Bad Packets (Type A) 
+[14:10:44] [pool-20-thread-1/INFO]: ---»--*--[ Punishment Logs for reopymiku ]--*--«---
