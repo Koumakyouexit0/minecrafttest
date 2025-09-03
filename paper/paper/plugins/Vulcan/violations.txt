@@ -83,3 +83,5 @@
 [09-03-2025] [14:08:16] reopymiku failed Jump (Type A) [VL: 7] [Ping: 76] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.24813599859094637 ticks=7 difference=0.40336800310754484
 [09-03-2025] [14:08:16] reopymiku failed Speed (Type C) [VL: 14] [Ping: 76] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] speed=0.6267828202981114 max=0.36250000540167093 diff=0.26428281489644045 ticks=9 deltaY=0.41999998688697815
 [09-03-2025] [14:08:16] reopymiku failed Speed *(Type E)* [VL: 2] [Ping: 76] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dXZ=0.6267828202981114 diff=0.19936116350713268 min=1.0E-4
+[09-03-2025] [14:08:34] reopymiku failed Speed (Type C) [VL: 2] [Ping: 80] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] speed=0.44700635178964226 max=0.36250000540167093 diff=0.08450634638797133 ticks=16 deltaY=-0.15233518685055714
+[09-03-2025] [14:08:34] reopymiku failed Speed (Type C) [VL: 4] [Ping: 80] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] speed=0.37369539338063934 max=0.36250000540167093 diff=0.011195387978968407 ticks=22 deltaY=-0.5824428773508714

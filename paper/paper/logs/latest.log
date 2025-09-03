@@ -146,3 +146,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:08:18] [User Authenticator #1/INFO]: UUID of player reopymiku is 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
 [14:08:18] [Server thread/INFO]: reopymiku joined the game
 [14:08:18] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:45736] logged in with entity id 38 at ([world]2.7270671838530522, -53.94649818158028, 40.35939229518102)
+[14:08:34] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Speed (Type C) (2/15)
+[14:08:34] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Speed (Type C) (4/15)
