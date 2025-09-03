@@ -87,3 +87,4 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [12:25:31] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:34474] logged in with entity id 21 at ([world]-4.5, -57.0, 1.5)
 [12:25:48] [Server thread/INFO]: reopymiku issued server command: /vulcan:alerts reopymiku
 [12:26:11] [Server thread/INFO]: reopymiku issued server command: /vulcan:alerts reopymiku
+[12:26:58] [Server thread/INFO]: Made reopymiku no longer a server operator
