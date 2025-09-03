@@ -154,3 +154,16 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [10:52:18] [Server thread/INFO]: Preparing level "world"
 [10:52:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
 [10:52:19] [Server thread/INFO]: Preparing spawn area: 0%
+[10:52:19] [Server thread/INFO]: Preparing spawn area: 0%
+[10:52:20] [Server thread/INFO]: Preparing spawn area: 6%
+[10:52:20] [Server thread/INFO]: Time elapsed: 1216 ms
+[10:52:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:52:20] [Server thread/INFO]: Preparing spawn area: 0%
+[10:52:20] [Server thread/INFO]: Time elapsed: 185 ms
+[10:52:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:52:20] [Server thread/INFO]: Preparing spawn area: 0%
+[10:52:20] [Server thread/INFO]: Time elapsed: 119 ms
+[10:52:20] [Server thread/INFO]: [spark] Starting background profiler...
+[10:52:21] [Server thread/INFO]: Done preparing level "world" (2.292s)
+[10:52:21] [Server thread/INFO]: Running delayed init tasks
+[10:52:21] [Server thread/INFO]: Done (12.923s)! For help, type "help"
