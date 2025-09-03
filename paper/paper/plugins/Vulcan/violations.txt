@@ -168,3 +168,13 @@
 [09-03-2025] [14:16:27] reopymiku failed Scaffold (Type D) [VL: 5] [Ping: 74] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=615 dp=2.0021896
 [09-03-2025] [14:16:28] reopymiku failed Scaffold (Type K) [VL: 3] [Ping: 74] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] amount=6
 [09-03-2025] [14:16:28] reopymiku failed Bad Packets (Type M) [VL: 5] [Ping: 73] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] delay=50
+[09-03-2025] [14:16:57] reopymiku failed Scaffold (Type G) [VL: 1] [Ping: 73] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] angle=1.5216917E-5 delay=252 acceleration=7.253468409240682E-9
+[09-03-2025] [14:16:58] reopymiku failed Scaffold (Type G) [VL: 2] [Ping: 73] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] angle=0.002551684 delay=205 acceleration=1.6130084905807696E-6
+[09-03-2025] [14:16:58] reopymiku failed Scaffold (Type M) [VL: 1] [Ping: 70] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] [1] face=WEST direction=WEST distance=1.042154634153697
+[09-03-2025] [14:17:01] reopymiku failed Scaffold (Type M) [VL: 2] [Ping: 74] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] [1] face=WEST direction=WEST distance=1.0700858407915204
+[09-03-2025] [14:17:02] reopymiku failed Scaffold (Type M) [VL: 3] [Ping: 74] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] [1] face=WEST direction=WEST distance=1.0103348262800953
+[09-03-2025] [14:17:02] reopymiku failed Scaffold (Type G) [VL: 3] [Ping: 74] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] angle=0.00255157 delay=249 acceleration=1.1197232873183527E-5
+[09-03-2025] [14:17:02] reopymiku failed Scaffold (Type M) [VL: 4] [Ping: 73] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] [1] face=WEST direction=WEST distance=1.064277332499189
+[09-03-2025] [14:17:02] reopymiku failed Scaffold (Type G) [VL: 4] [Ping: 73] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] angle=0.002551702 delay=251 acceleration=8.844071211489002E-8
+[09-03-2025] [14:17:03] reopymiku failed Scaffold (Type G) [VL: 5] [Ping: 73] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] angle=0.002551703 delay=215 acceleration=2.082453931517847E-10
+[09-03-2025] [14:17:03] reopymiku failed Scaffold (Type K) [VL: 1] [Ping: 73] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] amount=6
