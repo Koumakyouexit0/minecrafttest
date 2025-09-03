@@ -122,3 +122,17 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:08:02] [User Authenticator #1/INFO]: UUID of player reopymiku is 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
 [14:08:03] [Server thread/INFO]: reopymiku joined the game
 [14:08:03] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:44950] logged in with entity id 37 at ([world]38.720033081549644, -56.37951736783188, 49.07867935505226)
+[14:08:07] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight *(Type F)* (2/30)
+[14:08:11] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight *(Type F)* (4/30)
+[14:08:11] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (1/25)
+[14:08:13] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (2/25)
+[14:08:13] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (3/25)
+[14:08:13] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Speed (Type C) (2/15)
+[14:08:14] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Speed (Type C) (4/15)
+[14:08:14] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Speed (Type C) (6/15)
+[14:08:14] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (4/25)
+[14:08:14] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (5/25)
+[14:08:14] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight *(Type F)* (6/30)
+[14:08:15] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Speed (Type C) (8/15)
+[14:08:15] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Speed (Type C) (10/15)
+[14:08:15] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Speed (Type C) (12/15)
