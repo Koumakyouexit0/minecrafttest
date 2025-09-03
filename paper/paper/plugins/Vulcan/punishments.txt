@@ -444,3 +444,60 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ reopymiku was punished for Bad Packets (Type M) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 14:14:58
+
+Location:
+ - World: world
+ - X: -45.402733431976465
+ - Y: -50.0
+ - Z: 28.471455223496342
+
+Information:
+ - UUID: 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+ - Keep Alive Ping: 67
+ - Transaction Ping: 65
+ - Server TPS: 20
+ - Sensitivity: 161
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.21.4
+ - Last Damage: 23.35 seconds ago
+
+Total Violations: 17
+ - Combat Violations: 0
+ - Movement Violations: 6
+ - Player Violations: 11
+
+Misc Information:
+ - Since Teleport Ticks: 466
+ - Since Riptide Ticks: 1145
+ - Flying Delay: 50
+ - Since Velocity Ticks: 467
+ - Since Firework Ticks: 1145
+ - Ticks Existed: 1021
+ - Since Vehicle Ticks: 1045
+ - Since Liquid Ticks: 1045
+ - Queued Transactions: 0
+ - Joined: 344 seconds ago
+ - Holding Item (Main Hand): ItemStack{STONE x 32}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Jump (Type A) [VL: 3] (Invalid jump motion.)
+ - Speed (Type C) [VL: 3] (Moving too quickly in the air.)
+ - Bad Packets (Type M) [VL: 5] (Post BlockPlace packets.)
+ - Air Place (Type A) [VL: 1] (Invalid block placement.)
+ - Scaffold (Type D) [VL: 4] (Invalid rotations.)
+ - Scaffold (Type I) [VL: 1] (Invalid acceleration.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

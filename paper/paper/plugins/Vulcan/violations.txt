@@ -117,3 +117,14 @@
 [09-03-2025] [14:11:32] reopymiku failed Speed (Type C) [VL: 2] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] speed=0.5375349738463824 max=0.36250000540167093 diff=0.17503496844471145 ticks=12 deltaY=0.164773281826065
 [09-03-2025] [14:13:41] reopymiku failed Jump (Type A) [VL: 2] [Ping: 65] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.41999998688697815 ticks=5 difference=0.3369221690805091
 [09-03-2025] [14:13:41] reopymiku failed Jump (Type A) [VL: 3] [Ping: 65] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.24813599859094637 ticks=7 difference=0.40336800310754484
+[09-03-2025] [14:14:53] reopymiku failed Scaffold (Type I) [VL: 1] [Ping: 68] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] acceleration=2.4274085864847694E-4 deltaYaw=186.1908 deltaPitch=10.508827
+[09-03-2025] [14:14:54] reopymiku failed Bad Packets (Type M) [VL: 1] [Ping: 68] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] delay=54
+[09-03-2025] [14:14:54] reopymiku failed Scaffold (Type D) [VL: 1] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=185 dp=6.676468
+[09-03-2025] [14:14:54] reopymiku failed Bad Packets (Type M) [VL: 2] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] delay=65
+[09-03-2025] [14:14:55] reopymiku failed Air Place (Type A) [VL: 1] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] block= STONE
+[09-03-2025] [14:14:55] reopymiku failed Bad Packets (Type M) [VL: 3] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] delay=62
+[09-03-2025] [14:14:56] reopymiku failed Scaffold (Type D) [VL: 2] [Ping: 69] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=247 dp=5.834938
+[09-03-2025] [14:14:56] reopymiku failed Scaffold (Type D) [VL: 3] [Ping: 69] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=171 dp=1.8845367
+[09-03-2025] [14:14:56] reopymiku failed Bad Packets (Type M) [VL: 4] [Ping: 69] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] delay=67
+[09-03-2025] [14:14:57] reopymiku failed Scaffold (Type D) [VL: 4] [Ping: 67] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=734 dp=4.862068
+[09-03-2025] [14:14:58] reopymiku failed Bad Packets (Type M) [VL: 5] [Ping: 67] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] delay=50

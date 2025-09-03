@@ -235,3 +235,17 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:13:41] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (2/25)
 [14:13:41] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (3/25)
 [14:14:20] [Server thread/INFO]: reopymiku fell from a high place
+[14:14:53] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Scaffold (Type I) (1/10)
+[14:14:54] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Bad Packets (Type M) (1/5)
+[14:14:54] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Scaffold (Type D) (1/10)
+[14:14:54] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Bad Packets (Type M) (2/5)
+[14:14:55] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Air Place (Type A) (1/10)
+[14:14:55] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Bad Packets (Type M) (3/5)
+[14:14:56] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Scaffold (Type D) (2/10)
+[14:14:56] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Scaffold (Type D) (3/10)
+[14:14:56] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Bad Packets (Type M) (4/5)
+[14:14:57] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Scaffold (Type D) (4/10)
+[14:14:58] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Bad Packets (Type M) (5/5)
+[14:14:58] [Server thread/INFO]: reopymiku lost connection: §c[Vulcan] Unfair Advantage
+[14:14:58] [Server thread/INFO]: reopymiku left the game
+[14:14:58] [Server thread/INFO]: Kicked reopymiku: §c[Vulcan] Unfair Advantage
