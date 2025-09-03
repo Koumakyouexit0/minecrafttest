@@ -77,3 +77,8 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:29:36] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
 [14:29:46] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
 ...oden_sword{Enchantments:[{id:unbreaking,lvl:10}]} 1<--[HERE]
+[14:29:54] [User Authenticator #0/INFO]: UUID of player reopymiku is 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+[14:29:56] [Server thread/INFO]: reopymiku joined the game
+[14:29:56] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:38384] logged in with entity id 28 at ([world]-73.10055448880077, -57.0, 36.143325392259364)
+[14:29:59] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+...oden_sword{Enchantments:[{id:unbreaking,lvl:10}]} 1<--[HERE]
