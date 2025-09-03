@@ -82,3 +82,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 ...oden_sword{Enchantments:[{id:"minecraft:unbreaking",lvl:10}]}<--[HERE]
 [14:31:27] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
 ...oden_sword{Enchantments:[{id:"minecraft:unbreaking",lvl:10}]} 1<--[HERE]
+[14:32:12] [Server thread/INFO]: Expected literal :
+...unbreaking=10}}] 1<--[HERE]
