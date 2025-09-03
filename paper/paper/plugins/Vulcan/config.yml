@@ -469,7 +469,7 @@ settings:
   # This is highly highly recommended to keep false as it can be spoofed by the client, however, if you're using Geyser and
   # for whatever reason can't get Floodgate to work, then enable this. If you have floodgate-bukkit on your server
   # and Geyser is working fine, then don't touch this.
-  ignore-flags-geyser-client-brand: false
+  ignore-flags-geyser-client-brand: true
   # How long we should wait for everything to initialize before players start being checked (in milliseconds). Default
   # value is 2500ms.
   join-check-wait-time: 2500
