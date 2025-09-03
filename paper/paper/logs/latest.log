@@ -170,3 +170,30 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [12:27:49] [User Authenticator #1/INFO]: UUID of player reopymiku is 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
 [12:27:49] [Server thread/INFO]: reopymiku joined the game
 [12:27:49] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:40488] logged in with entity id 37 at ([world]6.29043790220237, -49.94618451289191, 39.73020687343471)
+[12:28:02] [Server thread/INFO]: ---»--*-------------------------------------*--«---
+[12:28:02] [Server thread/INFO]: Vulcan Cheat Detection v2.9.7.1 by frep (.frap)
+[12:28:02] [Server thread/INFO]: 
+[12:28:02] [Server thread/INFO]: /vulcan help - Opens this help menu
+[12:28:02] [Server thread/INFO]: /vulcan profile  - Show's a player's Vulcan profile.
+[12:28:02] [Server thread/INFO]: /vulcan ban (player) - Ban a player through Vulcan.
+[12:28:02] [Server thread/INFO]: /vulcan reload - Reload all files.
+[12:28:02] [Server thread/INFO]: /vulcan disablecheck (check) - Disables a check (case sensitive).
+[12:28:02] [Server thread/INFO]: /vulcan violations (player) - Shows all violations of the specified player.
+[12:28:02] [Server thread/INFO]: /vulcan cps (player) - Displays the CPS of the player.
+[12:28:02] [Server thread/INFO]: /vulcan kb (player)  | /vulcan knockback (player) - Applies knockback to a player.
+[12:28:02] [Server thread/INFO]: /vulcan checks - Shows all enabled checks.
+[12:28:02] [Server thread/INFO]: /vulcan connection (player) - Shows connection info of the player.
+[12:28:02] [Server thread/INFO]: /vulcan freeze (player) - Freezes/unfreezes a player.
+[12:28:02] [Server thread/INFO]: /vulcan rotate (player) - Randomly rotates a player's yaw/pitch.
+[12:28:02] [Server thread/INFO]: /vulcan shuffle (player) - Randomly shuffle a player's hotbar slot.
+[12:28:02] [Server thread/INFO]: /vulcan top - Display the players with highest violations for each category.
+[12:28:02] [Server thread/INFO]: /vulcan testalert - Tests Discord webhooks/integration.
+[12:28:02] [Server thread/INFO]: 
+[12:28:02] [Server thread/INFO]: /jday add (player) - Adds a player to Judgement Day.
+[12:28:02] [Server thread/INFO]: /jday execute - Executes a Judgement Day.
+[12:28:02] [Server thread/INFO]: 
+[12:28:02] [Server thread/INFO]: /alerts - Turn on and off cheat alerts.
+[12:28:02] [Server thread/INFO]: 
+[12:28:02] [Server thread/INFO]: /logs (player) (page) - Read a player's violations.
+[12:28:02] [Server thread/INFO]: /punishlogs (player) - Check a player's punishments
+[12:28:02] [Server thread/INFO]: ---»--*-------------------------------------*--«---
