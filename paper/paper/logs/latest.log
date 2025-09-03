@@ -198,3 +198,62 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [10:51:33] [Server thread/INFO]: Done preparing level "world" (2.191s)
 [10:51:33] [Server thread/INFO]: Running delayed init tasks
 [10:51:33] [Server thread/INFO]: Done (12.538s)! For help, type "help"
+[10:51:50] [Server thread/INFO]: Stopping the server
+[10:51:50] [Server thread/WARN]: java.lang.Throwable: Server stopped
+[10:51:50] [Server thread/WARN]: 	at io.papermc.paper.util.TraceUtil.dumpTraceForThread(TraceUtil.java:16)
+[10:51:50] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.safeShutdown(MinecraftServer.java:1099)
+[10:51:50] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.halt(MinecraftServer.java:1094)
+[10:51:50] [Server thread/WARN]: 	at net.minecraft.server.commands.StopCommand.lambda$register$1(StopCommand.java:12)
+[10:51:50] [Server thread/WARN]: 	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73)
+[10:51:50] [Server thread/WARN]: 	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30)
+[10:51:50] [Server thread/WARN]: 	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13)
+[10:51:50] [Server thread/WARN]: 	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8)
+[10:51:50] [Server thread/WARN]: 	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5)
+[10:51:50] [Server thread/WARN]: 	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105)
+[10:51:50] [Server thread/WARN]: 	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451)
+[10:51:50] [Server thread/WARN]: 	at net.minecraft.commands.Commands.performCommand(Commands.java:357)
+[10:51:50] [Server thread/WARN]: 	at net.minecraft.commands.Commands.performCommand(Commands.java:345)
+[10:51:50] [Server thread/WARN]: 	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:336)
+[10:51:50] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:435)
+[10:51:50] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:386)
+[10:51:50] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1738)
+[10:51:50] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530)
+[10:51:50] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252)
+[10:51:50] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
+[10:51:50] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[10:51:50] [Server thread/INFO]: Stopping server
+[10:51:50] [Server thread/INFO]: Saving players
+[10:51:50] [Server thread/INFO]: Saving worlds
+[10:51:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0.27s
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[10:51:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.09s
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[10:51:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.05s
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[10:51:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:51:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:51:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:51:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:51:50] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[10:51:50] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[10:51:50] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[10:51:50] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[10:51:50] [Thread-0/WARN]: java.lang.Throwable: Server stopped
+[10:51:50] [Thread-0/WARN]: 	at io.papermc.paper.util.TraceUtil.dumpTraceForThread(TraceUtil.java:16)
+[10:51:50] [Thread-0/WARN]: 	at net.minecraft.server.MinecraftServer.safeShutdown(MinecraftServer.java:1099)
+[10:51:50] [Thread-0/WARN]: 	at org.bukkit.craftbukkit.util.ServerShutdownThread.run(ServerShutdownThread.java:16)
