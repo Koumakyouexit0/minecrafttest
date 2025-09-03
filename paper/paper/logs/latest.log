@@ -202,3 +202,4 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [12:32:09] [Server thread/INFO]: Made reopymiku a server operator
 [12:32:40] [Server thread/INFO]: reopymiku issued server command: /vulcan:vulcan violations reopymiku
 [12:34:24] [Server thread/INFO]: reopymiku issued server command: /vulcan disablecheck
+[12:34:38] [Server thread/INFO]: reopymiku issued server command: /vulcan disablecheck all
