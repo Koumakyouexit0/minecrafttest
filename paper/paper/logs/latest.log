@@ -252,3 +252,6 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:53:39] [Server thread/INFO]: reopymiku lost connection: §c[Vulcan] Unfair Advantage
 [14:53:39] [Server thread/INFO]: reopymiku left the game
 [14:53:39] [Server thread/INFO]: Kicked reopymiku: §c[Vulcan] Unfair Advantage
+[14:53:42] [User Authenticator #3/INFO]: UUID of player reopymiku is 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+[14:53:43] [Server thread/INFO]: reopymiku joined the game
+[14:53:43] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:46042] logged in with entity id 125 at ([world]6.66940281135492, -53.723813004645635, 30.77962578094608)
