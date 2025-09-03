@@ -417,3 +417,5 @@
 [09-03-2025] [14:53:26] reopymiku failed Ground Spoof (Type A) [VL: 1] [Ping: 57] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=-1.082713105363375 ticks=8
 [09-03-2025] [14:53:26] reopymiku failed Ground Spoof (Type C) [VL: 1] [Ping: 57] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=-1.082713105363375 airTicks=0
 [09-03-2025] [14:53:26] reopymiku failed Ground Spoof (Type B) [VL: 3] [Ping: 57] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] client=true server=false
+[09-03-2025] [14:53:38] reopymiku failed Ground Spoof (Type B) [VL: 4] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] client=true server=false
+[09-03-2025] [14:53:39] reopymiku failed Ground Spoof (Type B) [VL: 5] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] client=true server=false

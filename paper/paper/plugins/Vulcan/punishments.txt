@@ -1205,3 +1205,60 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ reopymiku was punished for Ground Spoof (Type B) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 14:53:39
+
+Location:
+ - World: world
+ - X: 6.66940281135492
+ - Y: -52.584354139212536
+ - Z: 30.77962578094608
+
+Information:
+ - UUID: 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+ - Keep Alive Ping: 64
+ - Transaction Ping: 60
+ - Server TPS: 20
+ - Sensitivity: 161
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.21.4
+ - Last Damage: 27.0 seconds ago
+
+Total Violations: 18
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 18
+
+Misc Information:
+ - Since Teleport Ticks: 2295
+ - Since Riptide Ticks: 2926
+ - Flying Delay: 30
+ - Since Velocity Ticks: 540
+ - Since Firework Ticks: 2926
+ - Ticks Existed: 2941
+ - Since Vehicle Ticks: 2826
+ - Since Liquid Ticks: 2826
+ - Queued Transactions: 0
+ - Joined: 327 seconds ago
+ - Holding Item (Main Hand): ItemStack{STONE x 42}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Speed (Type E) [VL: 2] (Invalid friction.)
+ - Ground Spoof (Type A) [VL: 1] (Spoofed onGround value.)
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+ - Ground Spoof (Type C) [VL: 1] (Spoofed OnGround value.)
+ - Scaffold (Type J) [VL: 2] (Invalid pitch change.)
+ - Scaffold (Type K) [VL: 9] (Bridging too quickly.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

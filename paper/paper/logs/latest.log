@@ -247,3 +247,8 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:53:26] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Ground Spoof (Type A) (1/15)
 [14:53:26] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Ground Spoof (Type C) (1/15)
 [14:53:26] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Ground Spoof (Type B) (3/5)
+[14:53:38] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Ground Spoof (Type B) (4/5)
+[14:53:39] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Ground Spoof (Type B) (5/5)
+[14:53:39] [Server thread/INFO]: reopymiku lost connection: §c[Vulcan] Unfair Advantage
+[14:53:39] [Server thread/INFO]: reopymiku left the game
+[14:53:39] [Server thread/INFO]: Kicked reopymiku: §c[Vulcan] Unfair Advantage
