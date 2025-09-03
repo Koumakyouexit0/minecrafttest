@@ -99,3 +99,7 @@
 [09-03-2025] [14:08:51] reopymiku failed Jump (Type A) [VL: 5] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.24813599859094637 ticks=7 difference=0.40336800310754484
 [09-03-2025] [14:08:53] reopymiku failed Criticals (Type A) [VL: 3] [Ping: 77] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.0625 modulo=-0.0
 [09-03-2025] [14:08:53] reopymiku failed Criticals (Type A) [VL: 4] [Ping: 77] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.0625 modulo=-0.0
+[09-03-2025] [14:08:54] reopymiku failed Flight *(Type F)* [VL: 4] [Ping: 76] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dY=-0.0625 ldY=0.0625 pre=-0.01715000033378601 diff=0.04534999966621399 tol=1.0E-8 tick=2 tp=284
+[09-03-2025] [14:08:54] reopymiku failed Criticals (Type A) [VL: 5] [Ping: 76] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.0625 modulo=-0.0
+[09-03-2025] [14:09:06] reopymiku failed Criticals (Type A) [VL: 1] [Ping: 71] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.0625 modulo=-0.0
+[09-03-2025] [14:09:07] reopymiku failed Criticals (Type A) [VL: 2] [Ping: 71] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.0625 modulo=-0.0

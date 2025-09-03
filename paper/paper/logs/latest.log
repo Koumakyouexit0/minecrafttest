@@ -162,3 +162,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:08:51] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (5/25)
 [14:08:53] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Criticals (Type A) (3/10)
 [14:08:53] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Criticals (Type A) (4/10)
+[14:08:54] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight *(Type F)* (4/30)
+[14:08:54] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Criticals (Type A) (5/10)
+[14:09:06] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Criticals (Type A) (1/10)
+[14:09:07] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Criticals (Type A) (2/10)
