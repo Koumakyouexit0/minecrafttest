@@ -178,3 +178,4 @@
 [09-03-2025] [14:17:02] reopymiku failed Scaffold (Type G) [VL: 4] [Ping: 73] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] angle=0.002551702 delay=251 acceleration=8.844071211489002E-8
 [09-03-2025] [14:17:03] reopymiku failed Scaffold (Type G) [VL: 5] [Ping: 73] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] angle=0.002551703 delay=215 acceleration=2.082453931517847E-10
 [09-03-2025] [14:17:03] reopymiku failed Scaffold (Type K) [VL: 1] [Ping: 73] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] amount=6
+[09-03-2025] [14:17:03] reopymiku failed Scaffold (Type G) [VL: 6] [Ping: 74] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] angle=0.002551703 delay=208 acceleration=9.094947017729282E-13
