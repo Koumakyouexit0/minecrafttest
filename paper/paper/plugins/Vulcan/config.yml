@@ -144,7 +144,7 @@ connection:
     # either cause checks to false flag them or lock them into internal states where they will not flag things at all.
     # In a perfect world, there should never be any issues with this. PLEASE contact us via Discord if you are having
     # issues with players being kicked for this as it is almost definitely a plugin incompatibility. YOU HAVE BEEN WARNED!
-    enabled: true
+    enabled: f
     kick-message: 'Internal Exception: io.netty.handler.timeout.ReadTimeoutException'
     staff-alert-message: '%prefix% &c%player% &7was kicked for sending an invalid confirmation packet! (ID: &c%id%&7)'
     console-alert-message: '[Vulcan] &c%player% &7was kicked for sending an invalid confirmation packet! (ID: &c%id%&7)'
