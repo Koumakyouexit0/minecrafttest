@@ -187,3 +187,7 @@
 [09-03-2025] [14:17:38] reopymiku failed Scaffold (Type K) [VL: 6] [Ping: 76] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] amount=6
 [09-03-2025] [14:17:40] reopymiku failed Scaffold (Type K) [VL: 7] [Ping: 76] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] amount=6
 [09-03-2025] [14:17:52] reopymiku failed Scaffold (Type C) [VL: 1] [Ping: 66] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] ticks=18 delay=0
+[09-03-2025] [14:17:52] reopymiku failed Scaffold (Type C) [VL: 2] [Ping: 67] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] ticks=26 delay=0
+[09-03-2025] [14:17:53] reopymiku failed Scaffold (Type C) [VL: 3] [Ping: 67] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] ticks=29 delay=0
+[09-03-2025] [14:17:53] reopymiku failed Scaffold (Type C) [VL: 4] [Ping: 67] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] ticks=32 delay=0
+[09-03-2025] [14:17:53] reopymiku failed Scaffold (Type C) [VL: 5] [Ping: 67] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] ticks=37 delay=0
