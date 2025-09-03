@@ -58,3 +58,16 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [12:22:40] [Server thread/ERROR]: No key layers in MapLike[{}]
 [12:22:41] [Server thread/ERROR]: No key layers in MapLike[{}]
 [12:22:42] [Server thread/ERROR]: No key layers in MapLike[{}]
+[12:22:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:22:43] [Server thread/INFO]: Preparing spawn area: 2%
+[12:22:43] [Server thread/INFO]: Time elapsed: 238 ms
+[12:22:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:22:43] [Server thread/INFO]: Preparing spawn area: 2%
+[12:22:43] [Server console handler/WARN]: java.lang.Throwable: Server stopped
+[12:22:43] [Server console handler/WARN]: 	at io.papermc.paper.util.TraceUtil.dumpTraceForThread(TraceUtil.java:16)
+[12:22:43] [Server console handler/WARN]: 	at net.minecraft.server.MinecraftServer.safeShutdown(MinecraftServer.java:1099)
+[12:22:43] [Server console handler/WARN]: 	at net.minecraft.server.MinecraftServer.halt(MinecraftServer.java:1094)
+[12:22:43] [Server console handler/WARN]: 	at com.destroystokyo.paper.console.PaperConsole.shutdown(PaperConsole.java:50)
+[12:22:43] [Server console handler/WARN]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:171)
+[12:22:43] [Server console handler/WARN]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141)
+[12:22:43] [Server console handler/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:108)
