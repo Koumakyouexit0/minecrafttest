@@ -283,3 +283,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:59:12] [User Authenticator #4/INFO]: UUID of player reopymiku is 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
 [14:59:12] [Server thread/INFO]: reopymiku joined the game
 [14:59:12] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:44224] logged in with entity id 139 at ([world]51.810677506351205, -47.878703159460805, -86.2696219322458)
+[15:00:37] [Server thread/INFO]: reopymiku lost connection: Disconnected
+[15:00:37] [Server thread/INFO]: reopymiku left the game
