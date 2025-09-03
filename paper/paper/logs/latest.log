@@ -82,3 +82,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:29:56] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:38384] logged in with entity id 28 at ([world]-73.10055448880077, -57.0, 36.143325392259364)
 [14:29:59] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
 ...oden_sword{Enchantments:[{id:unbreaking,lvl:10}]} 1<--[HERE]
+[14:30:26] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+...oden_sword{Enchantments:[{id:"minecraft:unbreaking",lvl:10}]} 1<--[HERE]
