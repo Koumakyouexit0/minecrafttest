@@ -719,3 +719,60 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ reopymiku was punished for Improbable (Type B) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 14:19:50
+
+Location:
+ - World: world
+ - X: 16.21598223984169
+ - Y: -54.70600000000009
+ - Z: 23.33231906877944
+
+Information:
+ - UUID: 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+ - Keep Alive Ping: 81
+ - Transaction Ping: 96
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.21.4
+ - Last Damage: 6.35 seconds ago
+
+Total Violations: 32
+ - Combat Violations: 0
+ - Movement Violations: 31
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 227
+ - Since Riptide Ticks: 327
+ - Flying Delay: 32
+ - Since Velocity Ticks: 127
+ - Since Firework Ticks: 327
+ - Ticks Existed: 127
+ - Since Vehicle Ticks: 227
+ - Since Liquid Ticks: 227
+ - Queued Transactions: 0
+ - Joined: 7 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Flight (Type A) [VL: 9] (Invalid Y-Axis movement.)
+ - Flight (Type B) [VL: 7] (Invalid Y-Axis movement.)
+ - Flight (Type E) [VL: 7] (Invalid Y-Axis movement.)
+ - Flight (Type F) [VL: 45] (Invalid Y-Axis movement.)
+ - Motion (Type A) [VL: 8] (Repeated vertical motions.)
+ - Improbable (Type B) [VL: 1] (Too many combined movement violations.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
