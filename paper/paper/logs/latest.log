@@ -87,3 +87,4 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [13:56:38] [Server thread/INFO]: reopymiku issued server command: /logs reopymiku
 [13:56:51] [Server thread/INFO]: reopymiku issued server command: /vulcan:punishlogs reopymiku
 [13:57:36] [Server thread/INFO]: reopymiku issued server command: /vulcan:vulcan
+[13:57:48] [Server thread/INFO]: reopymiku issued server command: /jday reopymiku
