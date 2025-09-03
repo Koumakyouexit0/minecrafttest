@@ -86,3 +86,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 ...unbreaking=10}}] 1<--[HERE]
 [14:32:39] [Server thread/INFO]: Malformed 'minecraft:enchantments' component: 'Not a number; Failed to get element minecraft:levels missed input: {levels:{unbreaking:10}}'
 ...hantments={levels:{unbreaking:10}}] 1<--[HERE]
+[14:32:52] [Server thread/INFO]: Malformed 'minecraft:enchantments' component: 'Not a number; Failed to get element minecraft:levels missed input: {levels:{unbreaking:10}}'
+...hantments={levels:{unbreaking:10}}] 1<--[HERE]
