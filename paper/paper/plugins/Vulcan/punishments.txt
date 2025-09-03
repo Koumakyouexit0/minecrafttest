@@ -776,3 +776,61 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ reopymiku was punished for Motion (Type C) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 14:20:02
+
+Location:
+ - World: world
+ - X: 9.618527838353245
+ - Y: -56.16
+ - Z: 21.825251787816224
+
+Information:
+ - UUID: 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+ - Keep Alive Ping: 72
+ - Transaction Ping: 77
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.21.4
+ - Last Damage: 6.1 seconds ago
+
+Total Violations: 21
+ - Combat Violations: 0
+ - Movement Violations: 21
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 36
+ - Since Riptide Ticks: 316
+ - Flying Delay: 54
+ - Since Velocity Ticks: 122
+ - Since Firework Ticks: 316
+ - Ticks Existed: 122
+ - Since Vehicle Ticks: 216
+ - Since Liquid Ticks: 216
+ - Queued Transactions: 0
+ - Joined: 10 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Flight (Type F) [VL: 18] (Invalid Y-Axis movement.)
+ - Jump (Type A) [VL: 4] (Invalid jump motion.)
+ - Jump (Type B) [VL: 1] (Invalid jump motion.)
+ - Motion (Type C) [VL: 5] (Invalid jump motion.)
+ - Speed (Type A) [VL: 2] (Invalid friction.)
+ - Speed (Type E) [VL: 5] (Invalid friction.)
+ - Strafe (Type A) [VL: 9] (Moving incorrectly in the air.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

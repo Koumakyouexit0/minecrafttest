@@ -244,3 +244,23 @@
 [09-03-2025] [14:19:56] reopymiku failed Flight *(Type F)* [VL: 12] [Ping: 69] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dY=-0.03999999999999915 ldY=0.0 pre=-0.0784000015258789 diff=0.03840000152587976 tol=1.0E-8 tick=3 tp=172
 [09-03-2025] [14:19:56] reopymiku failed Flight *(Type F)* [VL: 14] [Ping: 69] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dY=0.0 ldY=0.025904293849819737 pre=-0.053013793058970374 diff=0.053013793058970374 tol=1.0E-8 tick=2 tp=179
 [09-03-2025] [14:19:57] reopymiku failed Flight *(Type F)* [VL: 16] [Ping: 69] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dY=-0.03999999999999915 ldY=0.0 pre=-0.0784000015258789 diff=0.03840000152587976 tol=1.0E-8 tick=3 tp=184
+[09-03-2025] [14:20:01] reopymiku failed Motion (Type C) [VL: 1] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.4200000000000017
+[09-03-2025] [14:20:01] reopymiku failed Jump (Type A) [VL: 1] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.4200000000000017 ticks=3 difference=0.17186400140905533
+[09-03-2025] [14:20:01] reopymiku failed Jump (Type B) [VL: 1] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.4200000000000017 limit=0.42 tp=19 vY=0.0
+[09-03-2025] [14:20:01] reopymiku failed Motion (Type C) [VL: 2] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.4200000000000017
+[09-03-2025] [14:20:01] reopymiku failed Motion (Type C) [VL: 3] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.4200000000000017
+[09-03-2025] [14:20:01] reopymiku failed Jump (Type A) [VL: 2] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.3332000064849865 ticks=5 difference=0.25012218867851743
+[09-03-2025] [14:20:01] reopymiku failed Jump (Type A) [VL: 3] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.1647732941679365 ticks=7 difference=0.320005298684535
+[09-03-2025] [14:20:01] reopymiku failed Strafe (Type A) [VL: 2] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] difference=0.02116000003363738 deltaXZ=0.30155428778312865
+[09-03-2025] [14:20:01] reopymiku failed Speed *(Type E)* [VL: 2] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dXZ=0.32833260108557855 diff=0.015159946651996548 min=1.0E-4
+[09-03-2025] [14:20:01] reopymiku failed Strafe (Type A) [VL: 4] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] difference=0.021160000033639655 deltaXZ=0.32833260108557855
+[09-03-2025] [14:20:02] reopymiku failed Speed *(Type E)* [VL: 3] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dXZ=0.3505077728801838 diff=0.01515996873657005 min=1.0E-4
+[09-03-2025] [14:20:02] reopymiku failed Strafe (Type A) [VL: 6] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] difference=0.02116000003363876 deltaXZ=0.3505077728801838
+[09-03-2025] [14:20:02] reopymiku failed Speed (Type A) [VL: 2] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] difference=0.015159974532111042 ticks=14 deltaXZ=0.3601220570455105
+[09-03-2025] [14:20:02] reopymiku failed Speed *(Type E)* [VL: 4] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dXZ=0.36887106132311087 diff=0.015159981293322855 min=1.0E-4
+[09-03-2025] [14:20:02] reopymiku failed Strafe (Type A) [VL: 8] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] difference=0.021160000033639038 deltaXZ=0.36887106132311087
+[09-03-2025] [14:20:02] reopymiku failed Speed *(Type E)* [VL: 5] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dXZ=0.3840777175513937 diff=0.01515998873010621 min=1.0E-4
+[09-03-2025] [14:20:02] reopymiku failed Jump (Type A) [VL: 4] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.4200000000000017 ticks=1 difference=1.3113023555888503E-8
+[09-03-2025] [14:20:02] reopymiku failed Motion (Type C) [VL: 4] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.4200000000000017
+[09-03-2025] [14:20:02] reopymiku failed Flight *(Type F)* [VL: 18] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dY=0.4200000000000017 ldY=0.4200000000000017 pre=0.333200006484987 diff=0.08679999351501472 tol=1.0E-8 tick=2 tp=36
+[09-03-2025] [14:20:02] reopymiku failed Motion (Type C) [VL: 5] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.4200000000000017

@@ -404,3 +404,29 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:19:56] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight *(Type F)* (12/30)
 [14:19:56] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight *(Type F)* (14/30)
 [14:19:57] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight *(Type F)* (16/30)
+[14:20:01] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Motion (Type C) (1/5)
+[14:20:01] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (1/25)
+[14:20:01] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type B) (1/25)
+[14:20:01] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Motion (Type C) (2/5)
+[14:20:01] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Motion (Type C) (3/5)
+[14:20:01] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (2/25)
+[14:20:01] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (3/25)
+[14:20:01] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Strafe (Type A) (2/15)
+[14:20:01] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Speed *(Type E)* (2/20)
+[14:20:01] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Strafe (Type A) (4/15)
+[14:20:02] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Speed *(Type E)* (3/20)
+[14:20:02] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Strafe (Type A) (6/15)
+[14:20:02] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Speed (Type A) (2/12)
+[14:20:02] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Speed *(Type E)* (4/20)
+[14:20:02] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Strafe (Type A) (8/15)
+[14:20:02] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Speed *(Type E)* (5/20)
+[14:20:02] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (4/25)
+[14:20:02] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Motion (Type C) (4/5)
+[14:20:02] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight *(Type F)* (18/30)
+[14:20:02] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Motion (Type C) (5/5)
+[14:20:02] [Server thread/INFO]: reopymiku lost connection: §c[Vulcan] Unfair Advantage
+[14:20:02] [Server thread/INFO]: reopymiku left the game
+[14:20:02] [Server thread/INFO]: Kicked reopymiku: §c[Vulcan] Unfair Advantage
+[14:20:03] [User Authenticator #4/INFO]: UUID of player reopymiku is 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+[14:20:04] [Server thread/INFO]: reopymiku joined the game
+[14:20:04] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:47378] logged in with entity id 86 at ([world]9.618527838353245, -55.82680000636577, 21.825251787816224)
