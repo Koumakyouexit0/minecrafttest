@@ -486,3 +486,22 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:26:43] [Server thread/INFO]: Summoned new Horse
 [14:26:43] [Server thread/INFO]: Summoned new Horse
 [14:26:44] [Server thread/INFO]: Summoned new Horse
+[14:27:22] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (1/10)
+[14:27:22] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (2/10)
+[14:27:23] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type K) (1/15)
+[14:27:23] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (3/10)
+[14:27:24] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (4/10)
+[14:27:24] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type K) (2/15)
+[14:27:25] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (5/10)
+[14:27:25] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type K) (3/15)
+[14:27:26] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (6/10)
+[14:27:26] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (7/10)
+[14:27:27] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type W) (1/5)
+[14:27:27] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (8/10)
+[14:27:29] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type K) (4/15)
+[14:27:30] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (9/10)
+[14:27:30] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type K) (5/15)
+[14:27:30] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (10/10)
+[14:27:30] [Server thread/INFO]: reopymiku lost connection: §c[Vulcan] Unfair Advantage
+[14:27:30] [Server thread/INFO]: reopymiku left the game
+[14:27:30] [Server thread/INFO]: Kicked reopymiku: §c[Vulcan] Unfair Advantage
