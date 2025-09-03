@@ -67,3 +67,13 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:29:35] [Server thread/INFO]: [packetevents] Enabling packetevents v2.9.5
 [14:29:35] [packetevents-update-check-thread/INFO]: [packetevents] Checking for updates, please wait...
 [14:29:35] [Server thread/INFO]: [Vulcan] Enabling Vulcan v2.9.7.1
+[14:29:35] [packetevents-update-check-thread/INFO]: [packetevents] You are running the latest release of PacketEvents. Your build: (2.9.5)
+[14:29:35] [Server thread/INFO]: [Vulcan] Starting Vulcan. Server Version: .1.21.8 detected!
+[14:29:36] [Server thread/INFO]: [Vulcan] BStats enabled!
+[14:29:36] [Server thread/INFO]: [spark] Starting background profiler...
+[14:29:36] [Server thread/INFO]: Done preparing level "world" (2.620s)
+[14:29:36] [Server thread/INFO]: Running delayed init tasks
+[14:29:36] [Server thread/INFO]: Done (16.752s)! For help, type "help"
+[14:29:36] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[14:29:46] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+...oden_sword{Enchantments:[{id:unbreaking,lvl:10}]} 1<--[HERE]
