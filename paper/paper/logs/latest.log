@@ -76,3 +76,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [12:13:24] [Server thread/INFO]: Running delayed init tasks
 [12:13:24] [Server thread/INFO]: Done (21.245s)! For help, type "help"
 [12:13:24] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[12:16:37] [Netty Epoll Server IO #1/WARN]: io.netty.handler.timeout.ReadTimeoutException
+[12:16:37] [Netty Epoll Server IO #2/WARN]: io.netty.handler.timeout.ReadTimeoutException
