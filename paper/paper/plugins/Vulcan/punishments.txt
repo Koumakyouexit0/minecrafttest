@@ -391,3 +391,56 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ reopymiku was punished for Criticals (Type A) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 14:09:11
+
+Location:
+ - World: world
+ - X: -5.12495303564282
+ - Y: -57.0
+ - Z: 31.150068014433028
+
+Information:
+ - UUID: 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+ - Keep Alive Ping: 74
+ - Transaction Ping: 76
+ - Server TPS: 20
+ - Sensitivity: 161
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.21.4
+ - Last Damage: 23.2 seconds ago
+
+Total Violations: 10
+ - Combat Violations: 10
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 463
+ - Since Riptide Ticks: 637
+ - Flying Delay: 1
+ - Since Velocity Ticks: 464
+ - Since Firework Ticks: 637
+ - Ticks Existed: 464
+ - Since Vehicle Ticks: 537
+ - Since Liquid Ticks: 537
+ - Queued Transactions: 0
+ - Joined: 53 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Criticals (Type A) [VL: 10] (Tried to hit Critical hit on ground.)
+ - Flight (Type F) [VL: 4] (Invalid Y-Axis movement.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftHorse{uuid=1e00655b-9559-495f-9857-28f85f4351b0}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

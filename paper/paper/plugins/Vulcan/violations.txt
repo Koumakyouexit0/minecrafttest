@@ -103,3 +103,13 @@
 [09-03-2025] [14:08:54] reopymiku failed Criticals (Type A) [VL: 5] [Ping: 76] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.0625 modulo=-0.0
 [09-03-2025] [14:09:06] reopymiku failed Criticals (Type A) [VL: 1] [Ping: 71] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.0625 modulo=-0.0
 [09-03-2025] [14:09:07] reopymiku failed Criticals (Type A) [VL: 2] [Ping: 71] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.0625 modulo=-0.0
+[09-03-2025] [14:09:07] reopymiku failed Criticals (Type A) [VL: 3] [Ping: 74] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.0625 modulo=-0.0
+[09-03-2025] [14:09:08] reopymiku failed Criticals (Type A) [VL: 4] [Ping: 74] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.0625 modulo=-0.0
+[09-03-2025] [14:09:08] reopymiku failed Flight *(Type F)* [VL: 2] [Ping: 73] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dY=-0.0625 ldY=0.0625 pre=-0.01715000033378601 diff=0.04534999966621399 tol=1.0E-8 tick=2 tp=396
+[09-03-2025] [14:09:08] reopymiku failed Criticals (Type A) [VL: 5] [Ping: 73] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.0625 modulo=-0.0
+[09-03-2025] [14:09:09] reopymiku failed Criticals (Type A) [VL: 6] [Ping: 73] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.0625 modulo=-0.0
+[09-03-2025] [14:09:10] reopymiku failed Criticals (Type A) [VL: 7] [Ping: 73] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.0625 modulo=-0.0
+[09-03-2025] [14:09:10] reopymiku failed Criticals (Type A) [VL: 8] [Ping: 73] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.0625 modulo=-0.0
+[09-03-2025] [14:09:11] reopymiku failed Criticals (Type A) [VL: 9] [Ping: 74] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.0625 modulo=-0.0
+[09-03-2025] [14:09:11] reopymiku failed Flight *(Type F)* [VL: 4] [Ping: 74] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dY=-0.0625 ldY=0.0625 pre=-0.01715000033378601 diff=0.04534999966621399 tol=1.0E-8 tick=2 tp=462
+[09-03-2025] [14:09:11] reopymiku failed Criticals (Type A) [VL: 10] [Ping: 74] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.0625 modulo=-0.0
