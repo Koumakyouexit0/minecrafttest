@@ -1,0 +1,52 @@
+--------------[ reopymiku was punished for Bad Packets (Type A) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 12:27:05
+
+Location:
+ - World: world
+ - X: -7.409422581828881
+ - Y: -57.0
+ - Z: 18.197230493347426
+
+Information:
+ - UUID: 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+ - Keep Alive Ping: 67
+ - Transaction Ping: 65
+ - Server TPS: 20
+ - Sensitivity: 161
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.21.4
+ - Last Damage: 12.35 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 676
+ - Since Riptide Ticks: 865
+ - Flying Delay: 1003
+ - Since Velocity Ticks: 247
+ - Since Firework Ticks: 865
+ - Ticks Existed: 677
+ - Since Vehicle Ticks: 765
+ - Since Liquid Ticks: 765
+ - Queued Transactions: 0
+ - Joined: 95 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

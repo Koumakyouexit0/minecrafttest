@@ -1,0 +1,5 @@
+[09-03-2025] [12:27:05] reopymiku failed Bad Packets (Type A) [VL: 1] [Ping: 68] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] flying=false
+[09-03-2025] [12:27:05] reopymiku failed Bad Packets (Type A) [VL: 2] [Ping: 68] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] flying=false
+[09-03-2025] [12:27:05] reopymiku failed Bad Packets (Type A) [VL: 3] [Ping: 68] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] flying=false
+[09-03-2025] [12:27:12] reopymiku failed Flight *(Type F)* [VL: 2] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dY=-0.03130000000000166 ldY=0.0 pre=-0.0784000015258789 diff=0.04710000152587725 tol=1.0E-8 tick=43 tp=42
+[09-03-2025] [12:27:12] reopymiku failed Strafe (Type A) [VL: 2] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] difference=0.07800000546565225 deltaXZ=0.46759494602674717
