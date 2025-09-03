@@ -465,3 +465,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:22:48] [User Authenticator #5/INFO]: UUID of player reopymiku is 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
 [14:22:49] [Server thread/INFO]: reopymiku joined the game
 [14:22:49] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:34694] logged in with entity id 94 at ([world]-51.1907715644302, -56.25020000312328, 24.844640720641756)
+[14:25:43] [Server thread/INFO]: Summoned new Horse
+[14:25:43] [Server thread/INFO]: Summoned new Horse
