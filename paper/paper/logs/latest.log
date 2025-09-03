@@ -344,3 +344,8 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:18:20] [Server thread/INFO]: reopymiku fell from a high place
 [14:18:34] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Air Place (Type A) (3/10)
 [14:18:39] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Air Place (Type A) (4/10)
+[14:19:39] [Server thread/INFO]: reopymiku lost connection: Invalid move player packet received
+[14:19:39] [Server thread/INFO]: reopymiku left the game
+[14:19:43] [User Authenticator #4/INFO]: UUID of player reopymiku is 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+[14:19:43] [Server thread/INFO]: reopymiku joined the game
+[14:19:43] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:33260] logged in with entity id 84 at ([world]18.16140650133956, -57.0, 20.700692604778588)
