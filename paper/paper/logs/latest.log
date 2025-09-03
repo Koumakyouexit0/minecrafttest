@@ -242,3 +242,8 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:50:48] [Server thread/INFO]: Gave 64 [Stone] to reopymiku
 [14:50:48] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
 ...t:stone 64give reopymiku minecraft:stone 64<--[HERE]
+[14:53:26] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Ground Spoof (Type B) (1/5)
+[14:53:26] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Ground Spoof (Type B) (2/5)
+[14:53:26] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Ground Spoof (Type A) (1/15)
+[14:53:26] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Ground Spoof (Type C) (1/15)
+[14:53:26] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Ground Spoof (Type B) (3/5)
