@@ -80,3 +80,4 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [12:16:37] [Netty Epoll Server IO #2/WARN]: io.netty.handler.timeout.ReadTimeoutException
 [12:17:07] [Netty Epoll Server IO #3/WARN]: io.netty.handler.timeout.ReadTimeoutException
 [12:17:07] [Netty Epoll Server IO #0/WARN]: io.netty.handler.timeout.ReadTimeoutException
+[12:19:46] [User Authenticator #0/INFO]: UUID of player reopymiku is 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
