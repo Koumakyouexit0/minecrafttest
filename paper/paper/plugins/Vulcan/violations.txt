@@ -3,3 +3,28 @@
 [09-03-2025] [12:27:05] reopymiku failed Bad Packets (Type A) [VL: 3] [Ping: 68] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] flying=false
 [09-03-2025] [12:27:12] reopymiku failed Flight *(Type F)* [VL: 2] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dY=-0.03130000000000166 ldY=0.0 pre=-0.0784000015258789 diff=0.04710000152587725 tol=1.0E-8 tick=43 tp=42
 [09-03-2025] [12:27:12] reopymiku failed Strafe (Type A) [VL: 2] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] difference=0.07800000546565225 deltaXZ=0.46759494602674717
+[09-03-2025] [12:27:12] reopymiku failed Flight (Type A) [VL: 2] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.3313000119209306 difference=0.44037401404381127 ticks=26 delay=49 tp=43 vel=44
+[09-03-2025] [12:27:12] reopymiku failed Flight (Type B) [VL: 2] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.48000001907348633 difference=0.233726002597807 ticks=45 delay=53 tp=44 vel=45
+[09-03-2025] [12:27:12] reopymiku failed Flight (Type A) [VL: 4] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.5880000233650193 difference=0.19599999704360788 ticks=28 delay=47 tp=45 vel=46
+[09-03-2025] [12:27:12] reopymiku failed Flight *(Type F)* [VL: 4] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dY=0.5880000233650193 ldY=0.48000001907348633 pre=0.39200002632141145 diff=0.19599999704360788 tol=1.0E-8 tick=46 tp=45
+[09-03-2025] [12:27:12] reopymiku failed Flight (Type A) [VL: 6] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.7150080284118658 difference=0.11556158980980058 ticks=31 delay=57 tp=48 vel=49
+[09-03-2025] [12:27:12] reopymiku failed Flight (Type B) [VL: 4] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.7150080284118658 difference=0.11556158980980058 ticks=49 delay=57 tp=48 vel=49
+[09-03-2025] [12:27:12] reopymiku failed Flight *(Type F)* [VL: 6] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dY=0.7150080284118658 ldY=0.6916800274848924 pre=0.5994464386020653 diff=0.11556158980980058 tol=1.0E-8 tick=49 tp=48
+[09-03-2025] [12:27:12] reopymiku failed Flight (Type A) [VL: 8] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.7374029093017569 difference=0.10137816453428183 ticks=33 delay=41 tp=50 vel=51
+[09-03-2025] [12:27:12] reopymiku failed Flight *(Type F)* [VL: 8] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dY=0.7424417575019859 ldY=0.7374029093017569 pre=0.6442548636546872 diff=0.09818689384729873 tol=1.0E-8 tick=52 tp=51
+[09-03-2025] [12:27:12] reopymiku failed Jump (Type B) [VL: 1] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.7424417575019859 limit=0.42 tp=51 vY=0.0
+[09-03-2025] [12:27:12] reopymiku failed Flight (Type A) [VL: 10] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.7454650664221205 difference=0.0962721314351005 ticks=35 delay=51 tp=52 vel=53
+[09-03-2025] [12:27:12] reopymiku failed Flight (Type B) [VL: 6] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.7454650664221205 difference=0.0962721314351005 ticks=53 delay=51 tp=52 vel=53
+[09-03-2025] [12:27:12] reopymiku failed Jump (Type B) [VL: 2] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.7472790517741998 limit=0.42 tp=53 vY=0.0
+[09-03-2025] [12:27:12] reopymiku failed Flight *(Type F)* [VL: 10] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dY=0.4483674310645185 ldY=0.7472790517741998 pre=0.6539334834660537 diff=0.20556605240153525 tol=1.0E-8 tick=55 tp=54
+[09-03-2025] [12:27:12] reopymiku failed Speed (Type C) [VL: 2] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] speed=0.3978803943318537 max=0.36250000540167093 diff=0.03538038893018275 ticks=55 deltaY=0.4483674310645185
+[09-03-2025] [12:27:12] reopymiku failed Speed *(Type E)* [VL: 2] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dXZ=0.3978803943318537 diff=0.06248976247878951 min=1.0E-4
+[09-03-2025] [12:27:12] reopymiku failed Strafe (Type A) [VL: 4] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] difference=0.0780000040299059 deltaXZ=0.3978803943318537
+[09-03-2025] [12:27:13] reopymiku failed Flight (Type A) [VL: 12] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.26902045863871393 difference=0.09197963083056532 ticks=38 delay=47 tp=55 vel=56
+[09-03-2025] [12:27:13] reopymiku failed Flight (Type B) [VL: 8] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.1614122751832241 difference=0.023827777887994672 ticks=57 delay=47 tp=56 vel=57
+[09-03-2025] [12:27:13] reopymiku failed Speed *(Type E)* [VL: 3] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dXZ=0.451273413551916 diff=0.0281143522436752 min=1.0E-4
+[09-03-2025] [12:27:13] reopymiku failed Strafe (Type A) [VL: 6] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] difference=0.07800000233703017 deltaXZ=0.451273413551916
+[09-03-2025] [12:27:13] reopymiku failed Improbable (Type B) [VL: 1] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] movementViolations=32
+[09-03-2025] [12:27:16] reopymiku failed Bad Packets (Type A) [VL: 1] [Ping: 66] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] flying=false
+[09-03-2025] [12:27:16] reopymiku failed Bad Packets (Type A) [VL: 2] [Ping: 66] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] flying=false
+[09-03-2025] [12:27:16] reopymiku failed Bad Packets (Type A) [VL: 3] [Ping: 66] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] flying=false

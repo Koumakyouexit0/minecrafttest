@@ -50,3 +50,116 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ reopymiku was punished for Improbable (Type B) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 12:27:13
+
+Location:
+ - World: world
+ - X: 10.204150098926844
+ - Y: -42.28060831038071
+ - Z: 35.68792609598395
+
+Information:
+ - UUID: 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+ - Keep Alive Ping: 72
+ - Transaction Ping: 86
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.21.4
+ - Last Damage: 2.85 seconds ago
+
+Total Violations: 34
+ - Combat Violations: 0
+ - Movement Violations: 33
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 56
+ - Since Riptide Ticks: 257
+ - Flying Delay: 47
+ - Since Velocity Ticks: 57
+ - Since Firework Ticks: 257
+ - Ticks Existed: 57
+ - Since Vehicle Ticks: 157
+ - Since Liquid Ticks: 157
+ - Queued Transactions: 0
+ - Joined: 6 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Flight (Type A) [VL: 13] (Invalid Y-Axis movement.)
+ - Flight (Type B) [VL: 8] (Invalid Y-Axis movement.)
+ - Flight (Type E) [VL: 1] (Invalid Y-Axis movement.)
+ - Flight (Type F) [VL: 11] (Invalid Y-Axis movement.)
+ - Jump (Type B) [VL: 2] (Invalid jump motion.)
+ - Speed (Type A) [VL: 1] (Invalid friction.)
+ - Speed (Type C) [VL: 2] (Moving too quickly in the air.)
+ - Speed (Type E) [VL: 3] (Invalid friction.)
+ - Strafe (Type A) [VL: 6] (Moving incorrectly in the air.)
+ - Improbable (Type B) [VL: 1] (Too many combined movement violations.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ reopymiku was punished for Bad Packets (Type A) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 12:27:16
+
+Location:
+ - World: world
+ - X: 10.204150098926844
+ - Y: -57.0
+ - Z: 35.68792609598395
+
+Information:
+ - UUID: 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+ - Keep Alive Ping: 66
+ - Transaction Ping: 83
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.21.4
+ - Last Damage: 1.0 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 19
+ - Since Riptide Ticks: 220
+ - Flying Delay: 57
+ - Since Velocity Ticks: 20
+ - Since Firework Ticks: 220
+ - Ticks Existed: 20
+ - Since Vehicle Ticks: 120
+ - Since Liquid Ticks: 120
+ - Queued Transactions: 0
+ - Joined: 2 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

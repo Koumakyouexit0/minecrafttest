@@ -99,3 +99,40 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [12:27:07] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:58698] logged in with entity id 34 at ([world]-7.409422581828881, -57.0, 18.197230493347426)
 [12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight *(Type F)* (2/30)
 [12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Strafe (Type A) (2/15)
+[12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight (Type A) (2/30)
+[12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight (Type B) (2/30)
+[12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight (Type A) (4/30)
+[12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight *(Type F)* (4/30)
+[12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight (Type A) (6/30)
+[12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight (Type B) (4/30)
+[12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight *(Type F)* (6/30)
+[12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight (Type A) (8/30)
+[12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight *(Type F)* (8/30)
+[12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type B) (1/25)
+[12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight (Type A) (10/30)
+[12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight (Type B) (6/30)
+[12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type B) (2/25)
+[12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight *(Type F)* (10/30)
+[12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Speed (Type C) (2/15)
+[12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Speed *(Type E)* (2/20)
+[12:27:12] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Strafe (Type A) (4/15)
+[12:27:13] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight (Type A) (12/30)
+[12:27:13] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Flight (Type B) (8/30)
+[12:27:13] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Speed *(Type E)* (3/20)
+[12:27:13] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Strafe (Type A) (6/15)
+[12:27:13] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Improbable (Type B) (1/1)
+[12:27:13] [Server thread/INFO]: reopymiku lost connection: §c[Vulcan] Unfair Advantage
+[12:27:13] [Server thread/INFO]: reopymiku left the game
+[12:27:13] [Server thread/INFO]: Kicked reopymiku: §c[Vulcan] Unfair Advantage
+[12:27:14] [User Authenticator #1/INFO]: UUID of player reopymiku is 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+[12:27:14] [Server thread/INFO]: reopymiku joined the game
+[12:27:14] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:44254] logged in with entity id 35 at ([world]10.204150098926844, -44.30495599383492, 35.68792609598395)
+[12:27:16] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Bad Packets (Type A) (1/3)
+[12:27:16] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Bad Packets (Type A) (2/3)
+[12:27:16] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Bad Packets (Type A) (3/3)
+[12:27:16] [Server thread/INFO]: reopymiku lost connection: §c[Vulcan] Unfair Advantage
+[12:27:16] [Server thread/INFO]: reopymiku left the game
+[12:27:16] [Server thread/INFO]: Kicked reopymiku: §c[Vulcan] Unfair Advantage
+[12:27:17] [User Authenticator #1/INFO]: UUID of player reopymiku is 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+[12:27:18] [Server thread/INFO]: reopymiku joined the game
+[12:27:18] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:44266] logged in with entity id 36 at ([world]10.204150098926844, -57.0, 35.68792609598395)
