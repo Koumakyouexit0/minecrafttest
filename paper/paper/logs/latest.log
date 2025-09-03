@@ -53,3 +53,26 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [12:13:19] [Server thread/INFO]: Preparing level "world"
 [12:13:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
 [12:13:20] [Server thread/INFO]: Preparing spawn area: 0%
+[12:13:20] [Server thread/INFO]: Preparing spawn area: 2%
+[12:13:21] [Server thread/INFO]: Preparing spawn area: 6%
+[12:13:21] [Server thread/INFO]: Time elapsed: 1262 ms
+[12:13:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:13:21] [Server thread/INFO]: Preparing spawn area: 0%
+[12:13:21] [Server thread/INFO]: Time elapsed: 409 ms
+[12:13:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:13:21] [Server thread/INFO]: Preparing spawn area: 0%
+[12:13:21] [Server thread/INFO]: Time elapsed: 470 ms
+[12:13:21] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.2
+[12:13:21] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[12:13:22] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.2
+[12:13:22] [Server thread/INFO]: [packetevents] Enabling packetevents v2.9.5
+[12:13:22] [packetevents-update-check-thread/INFO]: [packetevents] Checking for updates, please wait...
+[12:13:22] [Server thread/INFO]: [Vulcan] Enabling Vulcan v2.9.7.1
+[12:13:22] [packetevents-update-check-thread/INFO]: [packetevents] You are running the latest release of PacketEvents. Your build: (2.9.5)
+[12:13:23] [Server thread/INFO]: [Vulcan] Starting Vulcan. Server Version: .1.21.8 detected!
+[12:13:23] [Server thread/INFO]: [Vulcan] BStats enabled!
+[12:13:23] [Server thread/INFO]: [spark] Starting background profiler...
+[12:13:24] [Server thread/INFO]: Done preparing level "world" (4.778s)
+[12:13:24] [Server thread/INFO]: Running delayed init tasks
+[12:13:24] [Server thread/INFO]: Done (21.245s)! For help, type "help"
+[12:13:24] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
