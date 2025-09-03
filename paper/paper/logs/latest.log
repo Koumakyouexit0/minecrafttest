@@ -234,3 +234,4 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:13:37] [Server thread/INFO]: Gave 64 [Stone] to reopymiku
 [14:13:41] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (2/25)
 [14:13:41] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (3/25)
+[14:14:20] [Server thread/INFO]: reopymiku fell from a high place
