@@ -422,3 +422,4 @@
 [09-03-2025] [14:55:03] reopymiku failed Ground Spoof (Type B) [VL: 1] [Ping: 66] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] client=true server=false
 [09-03-2025] [14:55:55] reopymiku failed Scaffold (Type M) [VL: 1] [Ping: 65] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] [1] face=SOUTH direction=SOUTH distance=1.2430626040107708
 [09-03-2025] [14:55:56] reopymiku failed Scaffold (Type M) [VL: 2] [Ping: 65] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] [1] face=NORTH direction=NORTH distance=1.0558212799295128
+[09-03-2025] [14:56:07] reopymiku failed Scaffold (Type M) [VL: 3] [Ping: 65] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] [1] face=NORTH direction=NORTH distance=1.0614227851431837
