@@ -69,3 +69,9 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [13:53:03] [Server thread/INFO]: [Vulcan] Enabling Vulcan v2.9.7.1
 [13:53:04] [packetevents-update-check-thread/INFO]: [packetevents] You are running the latest release of PacketEvents. Your build: (2.9.5)
 [13:53:05] [Server thread/INFO]: [Vulcan] Starting Vulcan. Server Version: .1.21.8 detected!
+[13:53:05] [Server thread/INFO]: [Vulcan] BStats enabled!
+[13:53:05] [Server thread/INFO]: [spark] Starting background profiler...
+[13:53:05] [Server thread/INFO]: Done preparing level "world" (3.415s)
+[13:53:05] [Server thread/INFO]: Running delayed init tasks
+[13:53:05] [Server thread/INFO]: Done (17.675s)! For help, type "help"
+[13:53:05] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
