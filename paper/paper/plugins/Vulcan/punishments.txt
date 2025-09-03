@@ -834,3 +834,55 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ reopymiku was punished for Jump (Type A) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 14:22:45
+
+Location:
+ - World: world
+ - X: -51.1907715644302
+ - Y: -56.58339999675751
+ - Z: 24.844640720641756
+
+Information:
+ - UUID: 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+ - Keep Alive Ping: 66
+ - Transaction Ping: 78
+ - Server TPS: 20
+ - Sensitivity: 161
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.21.4
+ - Last Damage: 53.5 seconds ago
+
+Total Violations: 25
+ - Combat Violations: 0
+ - Movement Violations: 25
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1069
+ - Since Riptide Ticks: 1241
+ - Flying Delay: 54
+ - Since Velocity Ticks: 1070
+ - Since Firework Ticks: 1241
+ - Ticks Existed: 1070
+ - Since Vehicle Ticks: 1141
+ - Since Liquid Ticks: 1141
+ - Queued Transactions: 0
+ - Joined: 161 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Jump (Type A) [VL: 25] (Invalid jump motion.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftHorse{uuid=519c55cc-8572-4d6b-91ee-b0ddd0aea7b1}, CraftItem{uuid=aacb0dd4-367b-4cdf-ad64-f58e6861f1da}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
