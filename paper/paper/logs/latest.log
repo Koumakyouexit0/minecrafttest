@@ -25,3 +25,35 @@
 [10:38:43] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
 [10:38:43] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
 [10:38:43] [Server thread/INFO]: Preparing level "world"
+[10:38:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:38:53] [Server thread/INFO]: Preparing spawn area: 2%
+[10:38:53] [Server thread/INFO]: Preparing spawn area: 2%
+[10:38:54] [Server thread/INFO]: Preparing spawn area: 2%
+[10:38:54] [Server thread/INFO]: Preparing spawn area: 2%
+[10:38:55] [Server thread/INFO]: Preparing spawn area: 4%
+[10:38:55] [Server thread/INFO]: Preparing spawn area: 18%
+[10:38:56] [Server thread/INFO]: Preparing spawn area: 18%
+[10:38:56] [Server thread/INFO]: Preparing spawn area: 18%
+[10:38:57] [Server thread/INFO]: Preparing spawn area: 44%
+[10:38:57] [Server thread/INFO]: Preparing spawn area: 51%
+[10:38:58] [Server thread/INFO]: Preparing spawn area: 63%
+[10:38:58] [Server thread/INFO]: Preparing spawn area: 77%
+[10:38:58] [Server thread/INFO]: Time elapsed: 5515 ms
+[10:38:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:38:58] [Server thread/INFO]: Preparing spawn area: 2%
+[10:38:59] [Server thread/INFO]: Preparing spawn area: 18%
+[10:38:59] [Server thread/INFO]: Preparing spawn area: 30%
+[10:39:00] [Server thread/INFO]: Preparing spawn area: 51%
+[10:39:00] [Server thread/INFO]: Time elapsed: 1839 ms
+[10:39:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:39:00] [Server thread/INFO]: Preparing spawn area: 2%
+[10:39:01] [Server thread/INFO]: Time elapsed: 485 ms
+[10:39:01] [Server thread/INFO]: [spark] Starting background profiler...
+[10:39:01] [Server thread/INFO]: Done preparing level "world" (18.387s)
+[10:39:01] [Server thread/INFO]: Running delayed init tasks
+[10:39:01] [Server thread/INFO]: Done (29.594s)! For help, type "help"
+[10:39:01] [Server thread/INFO]: *************************************************************************************
+[10:39:01] [Server thread/INFO]: This is the first time you're starting this server.
+[10:39:01] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[10:39:01] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[10:39:01] [Server thread/INFO]: *************************************************************************************
