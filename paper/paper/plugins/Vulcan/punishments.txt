@@ -333,3 +333,61 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ reopymiku was punished for Speed (Type C) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 14:08:16
+
+Location:
+ - World: world
+ - X: 2.7852113373155145
+ - Y: -53.50167221718536
+ - Z: 40.399918170295734
+
+Information:
+ - UUID: 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+ - Keep Alive Ping: 76
+ - Transaction Ping: 77
+ - Server TPS: 20
+ - Sensitivity: 161
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.21.4
+ - Last Damage: 12.25 seconds ago
+
+Total Violations: 25
+ - Combat Violations: 0
+ - Movement Violations: 25
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 244
+ - Since Riptide Ticks: 442
+ - Flying Delay: 56
+ - Since Velocity Ticks: 245
+ - Since Firework Ticks: 442
+ - Ticks Existed: 245
+ - Since Vehicle Ticks: 342
+ - Since Liquid Ticks: 342
+ - Queued Transactions: 0
+ - Joined: 13 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Flight (Type F) [VL: 7] (Invalid Y-Axis movement.)
+ - Jump (Type A) [VL: 7] (Invalid jump motion.)
+ - Speed (Type B) [VL: 1] (Moving too quickly on the ground.)
+ - Speed (Type C) [VL: 15] (Moving too quickly in the air.)
+ - Speed (Type D) [VL: 1] (Moving too quickly on the ground.)
+ - Speed (Type E) [VL: 2] (Invalid friction.)
+ - Strafe (Type A) [VL: 1] (Moving incorrectly in the air.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
