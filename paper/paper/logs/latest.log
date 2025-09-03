@@ -205,3 +205,4 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [12:34:38] [Server thread/INFO]: reopymiku issued server command: /vulcan disablecheck all
 [12:39:30] [Server thread/INFO]: reopymiku issued server command: /vulcan clickalert reopymiku
 [12:39:30] [Server thread/INFO]: [reopymiku: Teleported reopymiku to reopymiku]
+[12:41:27] [Server thread/INFO]: reopymiku issued server command: /vulcan print reopymiku
