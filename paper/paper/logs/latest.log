@@ -209,3 +209,4 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:09:53] [Server thread/INFO]: /logs (player) (page) - Read a player's violations.
 [14:09:53] [Server thread/INFO]: /punishlogs (player) - Check a player's punishments
 [14:09:53] [Server thread/INFO]: ---»--*-------------------------------------*--«---
+[14:10:15] [Server thread/INFO]: Vulcan » This player set off no logs!
