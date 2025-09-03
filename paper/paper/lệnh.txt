@@ -1,0 +1,3 @@
+java -Xms9G -Xmx10G -jar paper-1.21.8-39.jar nogui
+ngrok tcp 25565
+./auto-commit.sh &
