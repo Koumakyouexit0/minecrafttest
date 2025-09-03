@@ -342,3 +342,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:18:15] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Air Place (Type A) (1/10)
 [14:18:20] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Air Place (Type A) (2/10)
 [14:18:20] [Server thread/INFO]: reopymiku fell from a high place
+[14:18:34] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Air Place (Type A) (3/10)
+[14:18:39] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Air Place (Type A) (4/10)
