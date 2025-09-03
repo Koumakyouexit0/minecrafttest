@@ -1049,3 +1049,55 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ reopymiku was punished for Scaffold (Type K) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 14:41:31
+
+Location:
+ - World: world
+ - X: 55.39004873246752
+ - Y: -49.58000001311302
+ - Z: 10.378398187523178
+
+Information:
+ - UUID: 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+ - Keep Alive Ping: 81
+ - Transaction Ping: 76
+ - Server TPS: 20
+ - Sensitivity: 450
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.21.4
+ - Last Damage: 23.3 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 15
+
+Misc Information:
+ - Since Teleport Ticks: 465
+ - Since Riptide Ticks: 662
+ - Flying Delay: 49
+ - Since Velocity Ticks: 466
+ - Since Firework Ticks: 662
+ - Ticks Existed: 466
+ - Since Vehicle Ticks: 562
+ - Since Liquid Ticks: 562
+ - Queued Transactions: 0
+ - Joined: 44 seconds ago
+ - Holding Item (Main Hand): ItemStack{STONE x 7}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Scaffold (Type K) [VL: 15] (Bridging too quickly.)
+
+Blocks Nearby: [AIR, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
