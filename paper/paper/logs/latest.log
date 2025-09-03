@@ -94,3 +94,4 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 ...hantments={levels:{"minecraft:unbreaking":5}}] 1<--[HERE]
 [14:35:21] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
 ...oden_sword{Unbreakable:1} 1<--[HERE]
+[14:35:35] [Server thread/INFO]: Gave 1 [Wooden Sword] to reopymiku
