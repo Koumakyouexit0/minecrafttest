@@ -240,3 +240,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:50:47] [Server thread/INFO]: Gave 64 [Stone] to reopymiku
 [14:50:48] [Server thread/INFO]: Gave 64 [Stone] to reopymiku
 [14:50:48] [Server thread/INFO]: Gave 64 [Stone] to reopymiku
+[14:50:48] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+...t:stone 64give reopymiku minecraft:stone 64<--[HERE]
