@@ -430,3 +430,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:20:03] [User Authenticator #4/INFO]: UUID of player reopymiku is 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
 [14:20:04] [Server thread/INFO]: reopymiku joined the game
 [14:20:04] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:47378] logged in with entity id 86 at ([world]9.618527838353245, -55.82680000636577, 21.825251787816224)
+[14:20:52] [Server thread/INFO]: reopymiku issued server command: /heal
+[14:20:53] [Server thread/INFO]: reopymiku issued server command: /heal
+[14:20:54] [Server thread/INFO]: reopymiku issued server command: /heal
+[14:20:55] [Server thread/INFO]: reopymiku issued server command: /heal
