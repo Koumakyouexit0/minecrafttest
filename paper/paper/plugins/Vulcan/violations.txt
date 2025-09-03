@@ -115,3 +115,5 @@
 [09-03-2025] [14:09:11] reopymiku failed Criticals (Type A) [VL: 10] [Ping: 74] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.0625 modulo=-0.0
 [09-03-2025] [14:11:32] reopymiku failed Jump (Type A) [VL: 1] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.24813599859094637 ticks=7 difference=0.40336800310754484
 [09-03-2025] [14:11:32] reopymiku failed Speed (Type C) [VL: 2] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] speed=0.5375349738463824 max=0.36250000540167093 diff=0.17503496844471145 ticks=12 deltaY=0.164773281826065
+[09-03-2025] [14:13:41] reopymiku failed Jump (Type A) [VL: 2] [Ping: 65] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.41999998688697815 ticks=5 difference=0.3369221690805091
+[09-03-2025] [14:13:41] reopymiku failed Jump (Type A) [VL: 3] [Ping: 65] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.24813599859094637 ticks=7 difference=0.40336800310754484
