@@ -75,3 +75,6 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [13:53:05] [Server thread/INFO]: Running delayed init tasks
 [13:53:05] [Server thread/INFO]: Done (17.675s)! For help, type "help"
 [13:53:05] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[13:53:43] [User Authenticator #0/INFO]: UUID of player reopymiku is 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+[13:53:45] [Server thread/INFO]: reopymiku joined the game
+[13:53:45] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:38900] logged in with entity id 19 at ([world]30.498570118887077, -57.0, 56.405504635529134)
