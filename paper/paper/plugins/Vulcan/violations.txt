@@ -424,3 +424,8 @@
 [09-03-2025] [14:55:56] reopymiku failed Scaffold (Type M) [VL: 2] [Ping: 65] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] [1] face=NORTH direction=NORTH distance=1.0558212799295128
 [09-03-2025] [14:56:07] reopymiku failed Scaffold (Type M) [VL: 3] [Ping: 65] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] [1] face=NORTH direction=NORTH distance=1.0614227851431837
 [09-03-2025] [14:56:56] reopymiku failed Ground Spoof (Type B) [VL: 1] [Ping: 69] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] client=true server=false
+[09-03-2025] [14:58:42] reopymiku failed Scaffold (Type K) [VL: 1] [Ping: 74] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] amount=8
+[09-03-2025] [14:58:44] reopymiku failed Scaffold (Type K) [VL: 2] [Ping: 76] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] amount=7
+[09-03-2025] [14:58:46] reopymiku failed Scaffold (Type K) [VL: 3] [Ping: 78] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] amount=7
+[09-03-2025] [14:58:47] reopymiku failed Scaffold (Type K) [VL: 4] [Ping: 76] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] amount=7
+[09-03-2025] [14:58:48] reopymiku failed Scaffold (Type K) [VL: 5] [Ping: 76] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] amount=6

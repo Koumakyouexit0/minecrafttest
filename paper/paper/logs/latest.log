@@ -262,3 +262,8 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:55:56] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Scaffold (Type M) (2/12)
 [14:56:07] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Scaffold (Type M) (3/12)
 [14:56:56] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Ground Spoof (Type B) (1/5)
+[14:58:42] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Scaffold (Type K) (1/15)
+[14:58:44] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Scaffold (Type K) (2/15)
+[14:58:46] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Scaffold (Type K) (3/15)
+[14:58:47] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Scaffold (Type K) (4/15)
+[14:58:48] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Scaffold (Type K) (5/15)
