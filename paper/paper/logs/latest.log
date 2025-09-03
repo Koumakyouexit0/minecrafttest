@@ -221,3 +221,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:10:44] [pool-20-thread-1/INFO]:  - 7.) reopymiku was punished for Improbable (Type B) 
 [14:10:44] [pool-20-thread-1/INFO]:  - 8.) reopymiku was punished for Bad Packets (Type A) 
 [14:10:44] [pool-20-thread-1/INFO]: ---»--*--[ Punishment Logs for reopymiku ]--*--«---
+[14:11:32] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (1/25)
+[14:11:32] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Speed (Type C) (2/15)
