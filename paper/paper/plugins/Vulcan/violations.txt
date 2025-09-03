@@ -264,3 +264,13 @@
 [09-03-2025] [14:20:02] reopymiku failed Motion (Type C) [VL: 4] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.4200000000000017
 [09-03-2025] [14:20:02] reopymiku failed Flight *(Type F)* [VL: 18] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] dY=0.4200000000000017 ldY=0.4200000000000017 pre=0.333200006484987 diff=0.08679999351501472 tol=1.0E-8 tick=2 tp=36
 [09-03-2025] [14:20:02] reopymiku failed Motion (Type C) [VL: 5] [Ping: 72] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.4200000000000017
+[09-03-2025] [14:22:35] reopymiku failed Jump (Type A) [VL: 1] [Ping: 67] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.25 ticks=1 difference=0.16999998688697815
+[09-03-2025] [14:22:35] reopymiku failed Jump (Type A) [VL: 2] [Ping: 67] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.25 ticks=1 difference=0.16999998688697815
+[09-03-2025] [14:22:35] reopymiku failed Jump (Type A) [VL: 3] [Ping: 67] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.004770644825669024 ticks=4 difference=0.16000263700039596
+[09-03-2025] [14:22:36] reopymiku failed Jump (Type A) [VL: 4] [Ping: 67] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.16660000324249324 ticks=2 difference=0.166599990391731
+[09-03-2025] [14:22:36] reopymiku failed Jump (Type A) [VL: 5] [Ping: 67] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.004770644825669024 ticks=4 difference=0.16000263700039596
+[09-03-2025] [14:22:36] reopymiku failed Jump (Type A) [VL: 6] [Ping: 71] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.16660000324249324 ticks=2 difference=0.166599990391731
+[09-03-2025] [14:22:36] reopymiku failed Jump (Type A) [VL: 7] [Ping: 71] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.004770644825669024 ticks=4 difference=0.16000263700039596
+[09-03-2025] [14:22:37] reopymiku failed Jump (Type A) [VL: 8] [Ping: 75] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.16660000324249324 ticks=2 difference=0.166599990391731
+[09-03-2025] [14:22:38] reopymiku failed Jump (Type A) [VL: 9] [Ping: 75] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.16660000324249324 ticks=2 difference=0.166599990391731
+[09-03-2025] [14:22:38] reopymiku failed Jump (Type A) [VL: 10] [Ping: 67] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.16660000324249324 ticks=2 difference=0.166599990391731

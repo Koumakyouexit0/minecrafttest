@@ -434,3 +434,13 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:20:53] [Server thread/INFO]: reopymiku issued server command: /heal
 [14:20:54] [Server thread/INFO]: reopymiku issued server command: /heal
 [14:20:55] [Server thread/INFO]: reopymiku issued server command: /heal
+[14:22:35] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (1/25)
+[14:22:35] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (2/25)
+[14:22:35] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (3/25)
+[14:22:36] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (4/25)
+[14:22:36] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (5/25)
+[14:22:36] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (6/25)
+[14:22:36] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (7/25)
+[14:22:37] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (8/25)
+[14:22:38] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (9/25)
+[14:22:38] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Jump (Type A) (10/25)
