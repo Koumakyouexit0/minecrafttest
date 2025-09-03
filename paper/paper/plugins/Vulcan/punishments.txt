@@ -227,3 +227,109 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ reopymiku was punished for Motion (Type E) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 14:07:55
+
+Location:
+ - World: world
+ - X: 43.75391672581756
+ - Y: -55.86703143253666
+ - Z: 45.935079903256224
+
+Information:
+ - UUID: 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+ - Keep Alive Ping: 69
+ - Transaction Ping: 91
+ - Server TPS: 20
+ - Sensitivity: 161
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.21.4
+ - Last Damage: 143.0 seconds ago
+
+Total Violations: 6
+ - Combat Violations: 0
+ - Movement Violations: 6
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 2859
+ - Since Riptide Ticks: 2957
+ - Flying Delay: 60
+ - Since Velocity Ticks: 2860
+ - Since Firework Ticks: 2957
+ - Ticks Existed: 2860
+ - Since Vehicle Ticks: 2857
+ - Since Liquid Ticks: 2857
+ - Queued Transactions: 0
+ - Joined: 851 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Flight (Type F) [VL: 1] (Invalid Y-Axis movement.)
+ - Jump (Type A) [VL: 3] (Invalid jump motion.)
+ - Motion (Type E) [VL: 3] (Impossible movement values.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ reopymiku was punished for Motion (Type E) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 14:08:00
+
+Location:
+ - World: world
+ - X: 38.720033081549644
+ - Y: -55.02419988144771
+ - Z: 49.07867935505226
+
+Information:
+ - UUID: 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+ - Keep Alive Ping: 74
+ - Transaction Ping: 81
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.21.4
+ - Last Damage: 2.35 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 3
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 46
+ - Since Riptide Ticks: 247
+ - Flying Delay: 57
+ - Since Velocity Ticks: 47
+ - Since Firework Ticks: 247
+ - Ticks Existed: 47
+ - Since Vehicle Ticks: 147
+ - Since Liquid Ticks: 147
+ - Queued Transactions: 0
+ - Joined: 3 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Motion (Type E) [VL: 3] (Impossible movement values.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

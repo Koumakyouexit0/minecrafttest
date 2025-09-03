@@ -56,3 +56,12 @@
 [09-03-2025] [12:27:48] reopymiku failed Speed (Type D) [VL: 6] [Ping: 55] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] speed=0.9800000394542948 max=0.29750000443309543 diff=0.6825000350211994 ticks=31 deltaY=0.0 tp=109
 [09-03-2025] [12:27:48] reopymiku failed Strafe (Type A) [VL: 4] [Ping: 55] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] difference=1.2688902180912 deltaXZ=0.9800000394542948
 [09-03-2025] [12:27:48] reopymiku failed Improbable (Type B) [VL: 1] [Ping: 55] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] movementViolations=32
+[09-03-2025] [14:07:53] reopymiku failed Jump (Type A) [VL: 1] [Ping: 68] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.33319999363422426 ticks=4 difference=0.16842671180815927
+[09-03-2025] [14:07:54] reopymiku failed Jump (Type A) [VL: 2] [Ping: 68] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.164773281826065 ticks=6 difference=0.24317328335194333
+[09-03-2025] [14:07:54] reopymiku failed Jump (Type A) [VL: 3] [Ping: 68] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaY=0.003016261509046103 ticks=8 difference=0.23354363042201243
+[09-03-2025] [14:07:55] reopymiku failed Motion (Type E) [VL: 1] [Ping: 69] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaXZ=0.24999999514993582 modulo=9.700128394962704E-9
+[09-03-2025] [14:07:55] reopymiku failed Motion (Type E) [VL: 2] [Ping: 69] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaXZ=0.24999999514993582 modulo=9.700128394962704E-9
+[09-03-2025] [14:07:55] reopymiku failed Motion (Type E) [VL: 3] [Ping: 69] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaXZ=0.24999999514993582 modulo=9.700128394962704E-9
+[09-03-2025] [14:08:00] reopymiku failed Motion (Type E) [VL: 1] [Ping: 74] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaXZ=0.24999999954374097 modulo=9.125180888691631E-10
+[09-03-2025] [14:08:00] reopymiku failed Motion (Type E) [VL: 2] [Ping: 74] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaXZ=0.24999999895593028 modulo=2.0881394668936792E-9
+[09-03-2025] [14:08:00] reopymiku failed Motion (Type E) [VL: 3] [Ping: 74] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaXZ=0.24999999650653312 modulo=6.986933781538696E-9
