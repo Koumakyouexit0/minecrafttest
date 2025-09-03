@@ -258,3 +258,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:54:24] [Server thread/INFO]: Gave 1 [Wooden Pickaxe] to reopymiku
 [14:54:32] [Server thread/INFO]: reopymiku has made the advancement [Stone Age]
 [14:55:03] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Ground Spoof (Type B) (1/5)
+[14:55:55] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Scaffold (Type M) (1/12)
+[14:55:56] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Scaffold (Type M) (2/12)
