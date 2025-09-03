@@ -128,7 +128,7 @@ client-brand-alerts:
   blocked-client-brands: []
   unallowed-client-brand-kick-message: '&cYou can''t join with %client-brand%!'
   # Whether or not client brand alerts should be sent to the console
-  console: false
+  console: true
   # The message that should be printed to the console (if the above option is enabled)
   console-message: '[Vulcan] %player% joined using %client-brand%!'
   # Whether or not the client brand whitelist should be enabled. Anyone joining with a client brand that is not
