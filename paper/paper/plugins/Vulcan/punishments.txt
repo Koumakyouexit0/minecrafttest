@@ -612,3 +612,57 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ reopymiku was punished for Bad Packets (Type M) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 14:16:28
+
+Location:
+ - World: world
+ - X: -125.50784210770722
+ - Y: -50.0
+ - Z: 28.448524315145477
+
+Information:
+ - UUID: 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+ - Keep Alive Ping: 73
+ - Transaction Ping: 66
+ - Server TPS: 20
+ - Sensitivity: 161
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.21.4
+ - Last Damage: 9.2 seconds ago
+
+Total Violations: 13
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 13
+
+Misc Information:
+ - Since Teleport Ticks: 183
+ - Since Riptide Ticks: 359
+ - Flying Delay: 50
+ - Since Velocity Ticks: 184
+ - Since Firework Ticks: 359
+ - Ticks Existed: 184
+ - Since Vehicle Ticks: 259
+ - Since Liquid Ticks: 259
+ - Queued Transactions: 0
+ - Joined: 20 seconds ago
+ - Holding Item (Main Hand): ItemStack{STONE x 22}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type M) [VL: 5] (Post BlockPlace packets.)
+ - Scaffold (Type D) [VL: 5] (Invalid rotations.)
+ - Scaffold (Type K) [VL: 3] (Bridging too quickly.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
