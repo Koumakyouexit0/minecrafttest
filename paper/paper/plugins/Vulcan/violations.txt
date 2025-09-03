@@ -342,3 +342,7 @@
 [09-03-2025] [14:40:44] reopymiku failed Scaffold (Type I) [VL: 9] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] acceleration=2.0239683204414938E-7 deltaYaw=1083.6157 deltaPitch=14.004219
 [09-03-2025] [14:40:44] reopymiku failed Scaffold (Type G) [VL: 4] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] angle=0.038823448 delay=182 acceleration=1.798765261740165E-8
 [09-03-2025] [14:40:44] reopymiku failed Scaffold (Type E) [VL: 5] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaYaw=1081.9113 deltaPitch=9.493568
+[09-03-2025] [14:40:45] reopymiku failed Bad Packets (Type M) [VL: 2] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] delay=41
+[09-03-2025] [14:40:45] reopymiku failed Scaffold (Type E) [VL: 6] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaYaw=1083.2418 deltaPitch=9.822548
+[09-03-2025] [14:40:45] reopymiku failed Scaffold (Type G) [VL: 5] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] angle=0.077520356 delay=241 acceleration=1.2568761402467765E-4
+[09-03-2025] [14:40:45] reopymiku failed Scaffold (Type I) [VL: 10] [Ping: 64] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] acceleration=1.2568761402467765E-4 deltaYaw=1084.9739 deltaPitch=12.302406

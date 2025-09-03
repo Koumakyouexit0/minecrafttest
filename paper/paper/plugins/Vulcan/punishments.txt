@@ -994,3 +994,58 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ reopymiku was punished for Scaffold (Type I) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 14:40:45
+
+Location:
+ - World: world
+ - X: -42.371482155016835
+ - Y: -50.0
+ - Z: 10.525991733826878
+
+Information:
+ - UUID: 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
+ - Keep Alive Ping: 64
+ - Transaction Ping: 76
+ - Server TPS: 20
+ - Sensitivity: 161
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.21.4
+ - Last Damage: 112.95 seconds ago
+
+Total Violations: 23
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 23
+
+Misc Information:
+ - Since Teleport Ticks: 2258
+ - Since Riptide Ticks: 2369
+ - Flying Delay: 41
+ - Since Velocity Ticks: 2259
+ - Since Firework Ticks: 2369
+ - Ticks Existed: 2259
+ - Since Vehicle Ticks: 2269
+ - Since Liquid Ticks: 2269
+ - Queued Transactions: 0
+ - Joined: 574 seconds ago
+ - Holding Item (Main Hand): ItemStack{STONE x 40}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type M) [VL: 2] (Post BlockPlace packets.)
+ - Scaffold (Type E) [VL: 6] (Invalid rotations.)
+ - Scaffold (Type G) [VL: 5] (Bridging too quickly.)
+ - Scaffold (Type I) [VL: 10] (Invalid acceleration.)
+
+Blocks Nearby: [AIR, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
