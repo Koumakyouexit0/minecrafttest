@@ -508,3 +508,20 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:27:34] [User Authenticator #6/INFO]: UUID of player reopymiku is 6780d75e-0e25-33c7-bb5f-c3eec82d3b76
 [14:27:34] [Server thread/INFO]: reopymiku joined the game
 [14:27:34] [Server thread/INFO]: reopymiku[/[0:0:0:0:0:0:0:1]:56732] logged in with entity id 134 at ([world]-77.39584788383867, -57.0, 25.85238261160177)
+[14:27:42] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (1/10)
+[14:27:44] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (2/10)
+[14:27:45] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (3/10)
+[14:27:46] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (4/10)
+[14:27:46] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (5/10)
+[14:27:47] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (6/10)
+[14:27:47] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type K) (1/15)
+[14:27:47] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (7/10)
+[14:27:47] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type K) (2/15)
+[14:27:48] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (8/10)
+[14:27:48] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type K) (3/15)
+[14:27:51] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (9/10)
+[14:27:52] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type W) (1/5)
+[14:27:52] [pool-17-thread-1/INFO]: [Vulcan] reopymiku failed Aim (Type I) (10/10)
+[14:27:52] [Server thread/INFO]: reopymiku lost connection: §c[Vulcan] Unfair Advantage
+[14:27:52] [Server thread/INFO]: reopymiku left the game
+[14:27:52] [Server thread/INFO]: Kicked reopymiku: §c[Vulcan] Unfair Advantage

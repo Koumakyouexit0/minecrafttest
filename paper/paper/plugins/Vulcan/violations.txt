@@ -305,3 +305,17 @@
 [09-03-2025] [14:27:30] reopymiku failed Aim (Type I) [VL: 9] [Ping: 90] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=25 deltaPitch=1.569252 deltaYaw=0.4519043
 [09-03-2025] [14:27:30] reopymiku failed Aim (Type K) [VL: 5] [Ping: 90] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaYaw=0.4519043 deltaPitch=1.569252
 [09-03-2025] [14:27:30] reopymiku failed Aim (Type I) [VL: 10] [Ping: 90] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=32 deltaPitch=4.1825294 deltaYaw=0.99731445
+[09-03-2025] [14:27:42] reopymiku failed Aim (Type I) [VL: 1] [Ping: 81] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=17 deltaPitch=5.89931 deltaYaw=1.2666626
+[09-03-2025] [14:27:44] reopymiku failed Aim (Type I) [VL: 2] [Ping: 79] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=26 deltaPitch=1.4585056 deltaYaw=0.8300476
+[09-03-2025] [14:27:45] reopymiku failed Aim (Type I) [VL: 3] [Ping: 78] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=21 deltaPitch=0.9148655 deltaYaw=1.5723267
+[09-03-2025] [14:27:46] reopymiku failed Aim (Type I) [VL: 4] [Ping: 78] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=44 deltaPitch=1.3445072 deltaYaw=1.7526245
+[09-03-2025] [14:27:46] reopymiku failed Aim (Type I) [VL: 5] [Ping: 78] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=121 deltaPitch=5.1572905 deltaYaw=2.607605
+[09-03-2025] [14:27:47] reopymiku failed Aim (Type I) [VL: 6] [Ping: 77] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=34 deltaPitch=1.0731506 deltaYaw=1.1664276
+[09-03-2025] [14:27:47] reopymiku failed Aim (Type K) [VL: 1] [Ping: 77] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaYaw=4.7295685 deltaPitch=3.2954388
+[09-03-2025] [14:27:47] reopymiku failed Aim (Type I) [VL: 7] [Ping: 77] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=104 deltaPitch=1.1917858 deltaYaw=2.8786926
+[09-03-2025] [14:27:47] reopymiku failed Aim (Type K) [VL: 2] [Ping: 77] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaYaw=2.8786926 deltaPitch=1.1917858
+[09-03-2025] [14:27:48] reopymiku failed Aim (Type I) [VL: 8] [Ping: 79] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=18 deltaPitch=0.6048336 deltaYaw=0.4953003
+[09-03-2025] [14:27:48] reopymiku failed Aim (Type K) [VL: 3] [Ping: 79] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] deltaYaw=0.43795776 deltaPitch=4.5180435
+[09-03-2025] [14:27:51] reopymiku failed Aim (Type I) [VL: 9] [Ping: 79] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=76 deltaPitch=2.7218895 deltaYaw=2.1418152
+[09-03-2025] [14:27:52] reopymiku failed Aim (Type W) [VL: 1] [Ping: 79] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] sens=-29 deltaYaw=1.6083984 deltaPitch=3.543686
+[09-03-2025] [14:27:52] reopymiku failed Aim (Type I) [VL: 10] [Ping: 79] [TPS: 20] [Version: 1.21.4] [Client: Unresolved] rotation=21 deltaPitch=3.9901161 deltaYaw=2.7128906
